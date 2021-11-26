@@ -2,6 +2,7 @@
 - 🔭 I’m currently studying Artificial Intelligence at SMU
 - 🌱 I’m currently learning MySQL on HanckerRank, and doing LeetCode algorithm exercises
 - ⚡ And actively seeking 2022 internship as SDE or DS
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/annihuang2021/)
 - 💬 Ask me about SQL, machine learning, and algorithms
 
 <!--
