@@ -1,4 +1,8 @@
 ### Hi there 👋
+- 🔭 I’m currently studying Artificial Intelligence at SMU
+- 🌱 I’m currently learning MySQL on HanckerRank, and doing LeetCode algorithm exercises
+- ⚡ And actively seeking 2022 internship as SDE or DS
+- 💬 Ask me about SQL, machine learning, and algorithms
 
 <!--
 **WideSu/WideSu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
