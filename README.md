@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Huang Anni 👋
 - 🔭 I’m currently studying Artificial Intelligence at SMU
 - 🌱 I’m currently learning MySQL on HanckerRank, and doing LeetCode algorithm exercises
 - ⚡ And actively seeking 2022 internship as SDE or DS
