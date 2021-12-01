@@ -1,5 +1,5 @@
 ### Hi, I'm Huang Anni 👋
-- 🔭 I’m currently studying Artificial Intelligence at SMU and will graduate in Feb 2023
+- 🔭 I’m currently studying **Artificial Intelligence** at **Singapore Management University** and will **graduate** in **Feb 2023**
 - 🌱 I’m learning MySQL on HanckerRank, and doing LeetCode algorithm exercises
 - ✨ I'm doing a **full-time internship(6th Dec 2021- 3rd Jun 2022)** as a **Machine Learning Engineer Intern** in [IKAS Info](http://www.ikasinfo.com/)
 - ⚡ And actively seeking **2022 part-time internships** or **full-time jobs as SDE or Data Scientist after 2022 June**
