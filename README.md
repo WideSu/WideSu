@@ -3,7 +3,7 @@
 - 🌱 I’m learning MySQL on HanckerRank, and doing LeetCode algorithm exercises
 - ✨ I'm doing a **full-time internship(6th Dec 2021- 6th Jun 2022)** as a **Machine Learning Engineer Intern** in [IKAS](http://www.ikasinfo.com/)
 - ⚡ And actively seeking **2022 part-time internships** or **full-time jobs as Software Development Engineer or Data Scientist after 2022 June**
-- 📫 How to reach me: [Huang Anni](https://www.linkedin.com/in/annihuang2021/)<br>
+- 📫 How to reach me: LinkedIn: [Huang Anni](https://www.linkedin.com/in/annihuang2021/)<br>
                       Telegram: @AnniHuang
 - 💬 Ask me about **SQL, machine learning, and algorithms**
 
