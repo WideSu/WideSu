@@ -6,6 +6,7 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/annihuang2021/)<br>
                       Telegram: @AnniHuang
 - 💬 Ask me about **SQL, machine learning, and algorithms**
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
 <!--
 **WideSu/WideSu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,3 +22,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
