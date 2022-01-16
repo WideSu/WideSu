@@ -7,6 +7,8 @@
                       Telegram: @AnniHuang
 - 💬 Ask me about **SQL, machine learning, and algorithms**
 <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="zh_CN" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="annihuang2021" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://sg.linkedin.com/in/annihuang2021?trk=profile-badge">Anni Huang</a></div>
+              
 
 <!--
 **WideSu/WideSu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
