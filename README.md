@@ -16,7 +16,7 @@
 - 🔭 I’m currently studying **Artificial Intelligence** at **Singapore Management University** and will **graduate** in **Feb 2023**
 - 🌱 I’m learning Reinforcement Learning, doing MySQL on HanckerRank, and doing LeetCode algorithm exercises
 - ✨ I'm doing a **full-time internship(6th Dec 2021- 6th Jun 2022)** as a **Machine Learning Engineer Intern** in [IKAS Industry](http://www.ikasinfo.com/), which is a company doing algorithms in the semi-conductor domain. I have done two projects. One is predictive maintenance for time series data of machines. The other is optimizing the temperature adjustment algorithm for producing wafers.
-- ⚡ And actively seeking 2022 part-time **research assistant** jobs since I really wanna study a PhD for the 2023 January intake
+- ⚡ And actively seeking 2022 part-time **research assistant** jobs since I wanna apply for a PhD degree in AI for the 2023 January intake
 - 📫 How to reach me: LinkedIn: [Huang Anni](https://www.linkedin.com/in/annihuang2021/)<br>
                       Telegram: @AnniHuang
 - 💬 Ask me about **SQL, machine learning, and algorithms**
