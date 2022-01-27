@@ -5,9 +5,9 @@
 <tr>
   <td width="50%">
     <img src="https://github-readme-stats.vercel.app/api?username=WideSu&show_icons=true&theme=vue&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WideSu&hide=javascript,html&langs_count=10&layout=compact&show_icons=true&hide_border=true" />
+    <img alt="gif" align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=WideSu&hidei_border=true"/>
   <td width="50%">
-   <img alt="gif" align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=WideSu&hidei_border=true"/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WideSu&hide=javascript,html&langs_count=10&layout=compact&show_icons=true&hide_border=true" />
  </td>
 </tr>
 <table>
