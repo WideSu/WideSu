@@ -11,15 +11,13 @@
 </tr>
 <table>
 
-- 🔭 I’m currently studying **Artificial Intelligence** at **Singapore Management University** and will **graduate** in **Feb 2023**
+- 🔭 I’m currently studying Artificial Intelligence at Singapore Management University and will graduate in Feb 2023
 - 🌱 I’m learning Reinforcement Learning, doing MySQL on HanckerRank, and doing LeetCode algorithm exercises
-- ✨ I'm doing a **full-time internship(6th Dec 2021- 6th Jun 2022)** as a **Machine Learning Engineer Intern** in [IKAS Industry](http://www.ikasinfo.com/), a company focusing on AI algorithms, real-time planning and scheduling in the semi-conductor domain. I think AI in semi-conductor domain is promising since China is promoting their research in chips and our research can help them to optimize their decisions in factories. 
-  I have done two projects. One is classification problem: predictive maintenance for time series data of machines. The other is regression problem: optimizing the temperature adjustment algorithm for producing wafers using all kinds of regression algorithms.
-- ⚡ And actively seeking 2022 part-time **research assistant** jobs.
-  I will start to apply for a Ph.D. degree from August 2022 in AI for the 2023 January intake
-- 📫 How to reach me: LinkedIn: [Huang Anni](https://www.linkedin.com/in/annihuang2021/)<br>
-                      Telegram: @AnniHuang
-- 💬 Ask me about **SQL, machine learning, algorithms, and semi-conductor industry.**
+- ✨ I'm doing a full-time internship(6th Dec 2021- 6th Jun 2022) as a Machine Learning Engineer Intern in IKAS Industry, a company focusing on AI algorithms, real-time planning, and scheduling in the semi-conductor domain. I think AI in the semi-conductor domain is promising since China is promoting their research in chips and our research can help them to optimize their decisions in factories. I have done two projects. One is the classification problem: predictive maintenance for time series data of machines. The other is regression problem: optimizing the temperature adjustment algorithm for producing wafers using all kinds of regression algorithms.
+- ⚡ And actively seeking 2022 part-time research assistant jobs. I will start to apply for a Ph.D. degree from August 2022 in AI for the 2023 January intake
+- 📫 How to reach me: LinkedIn: Huang Anni
+Telegram: @AnniHuang
+- 💬 Ask me about SQL, machine learning, algorithms, and semiconductor industry.
 
               
 
