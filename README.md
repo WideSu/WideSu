@@ -16,7 +16,8 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/annihuang2021/): Huang Anni
 Telegram: @AnniHuang
 - 💬 Ask me about **MySQL, machine learning, algorithms, and semiconductor industry**.
-
+- 😄 Pronouns: Never say never
+- ⚡ Fun fact: I can play Mahjong during earthquake
               
 
 <!--
