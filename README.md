@@ -12,7 +12,7 @@
 - 🔭 I’m currently studying **Artificial Intelligence** at Singapore Management University and will graduate in **Feb 2023**
 - 🌱 I’m learning **Machine Learning Engineering(MLops), Recommendation System, Natural Language Processing and Project Management** this term, which is also **my last term**(I finished my courses earlier than others)
 - ✨ I'm doing a full-time internship(6th Dec 2021- 6th Jun 2022) as a **Machine Learning Engineer Intern** in IKAS Industry, a company focusing on AI algorithms, real-time planning, and scheduling in the semi-conductor domain. I think AI in the semi-conductor domain is promising since China is promoting their research in chips and our research can help them to optimize their decisions in factories. I have done two projects. One is the classification problem: predictive maintenance for time series data of machines. The other is regression problem: optimizing the temperature adjustment algorithm for producing wafers using all kinds of regression algorithms. I will be a **research assistant @SMU** starting from **June** concentrating on **reinforcement learning in real-time strategy games**.
-- ⚡ And I'm actively seeking **2022 part-time research assistant jobs**. I will start to apply for a Ph.D. degree in August 2022.
+- ⚡ And I will start to apply for a Ph.D. degree in August 2022.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/annihuang2021/): Huang Anni
 Telegram: @AnniHuang
 - 💬 Ask me about **MySQL, machine learning, algorithms, and semiconductor industry**.
