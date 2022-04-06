@@ -15,7 +15,7 @@
 - ⚡ And I will start to apply for a Ph.D. degree.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/annihuang2021/): Huang Anni
 Telegram: @AnniHuang
-- 💬 Ask me about **MySQL, machine learning, deep learning, algorithms, and semiconductor industry**.
+- 💬 Ask me about **MySQL, machine learning, deep learning, algorithms, reinforcement learning, and semiconductor industry**.
 - ⚡ Fun fact: I like KPOP
 
 <!--
