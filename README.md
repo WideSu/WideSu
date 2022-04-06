@@ -16,7 +16,7 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/annihuang2021/): Huang Anni
 Telegram: @AnniHuang
 - 💬 Ask me about **MySQL, machine learning, deep learning, algorithms, reinforcement learning, and semiconductor industry**.
-- ⚡ Fun fact: I like KPOP
+- ⚡ Fun fact: I am very good at playing JustDance
 
 <!--
 **WideSu/WideSu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
