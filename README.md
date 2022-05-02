@@ -23,7 +23,7 @@
 <img align="left" alt="Visual Studio Code" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="MySQL" height="26px" src="https://user-images.githubusercontent.com/44923423/166213966-202e34ea-43b5-47bf-918d-9ac903dc77b5.png" />
 <img align="left" alt="RStudio" height="26px" src="https://user-images.githubusercontent.com/44923423/166214136-a1bd2143-d41e-40e0-9d72-2909ddc3ec5e.png"/>
-<img align="left" alt="Tableau" height="30px" src="https://user-images.githubusercontent.com/44923423/166217656-a73157ac-b5b6-43e2-b398-165ffbf876c1.png"/>
+<img align="left" alt="Tableau" height="40px" src="https://user-images.githubusercontent.com/44923423/166217656-a73157ac-b5b6-43e2-b398-165ffbf876c1.png"/>
 
 <!--
 **WideSu/WideSu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
