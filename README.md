@@ -1,42 +1,41 @@
-<h1>
-  hey, I'm HUANG Anni
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  
-  <br>[![LinkedIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&color=%23003140&logoColor=white)](https://www.linkedin.com/in/annihuang2021/)</br>
-</h1>
-<table>
-<tr>
-  <td width="50%">
-    <img src="https://github-readme-stats.vercel.app/api?username=WideSu&show_icons=true&theme=vue&hide_border=true" />
-  <td width="50%">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WideSu&hide=javascript,html,css&langs_count=8&layout=compact&show_icons=true&hide_border=true" />
- </td>
-</tr>
-<table>
+<h1 align="center">Hi 👋, I'm Anni HUANG</h1>
+<h3 align="center">A passionate machine learning engineer from China</h3>
 
-- 🔭 I’m currently studying **Artificial Intelligence** at Singapore Management University and will graduate in **Feb 2023**
-- 🌱 I’m learning **Machine Learning Engineering(MLops), Recommendation System, Natural Language Processing and Project Management** this term, which is also **my last term**(I finished my courses earlier)
-- ✨ I'm doing a full-time internship(6th Dec 2021- 6th Jun 2022) as a **Machine Learning Engineer Intern** in IKAS Industry, a company focusing on AI algorithms, real-time planning, and scheduling in the semi-conductor domain. I think AI in the semi-conductor domain is promising since China is promoting their research in chips and our research can help them to optimize their decisions in factories. I have done two projects. One is the classification problem: predictive maintenance for time series data of machines. The other is regression problem: optimizing the temperature adjustment algorithm for producing wafers using all kinds of regression algorithms. I will be a **research assistant @SMU** starting from **June** concentrating on **reinforcement learning in real-time strategy games**.
- 
-### Languages and Tools:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=widesu&label=Profile%20views&color=0e75b6&style=flat" alt="widesu" /> </p>
 
-<img align="left" alt="Visual Studio Code" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="MySQL" height="26px" src="https://user-images.githubusercontent.com/44923423/166213966-202e34ea-43b5-47bf-918d-9ac903dc77b5.png" />
-<img align="left" alt="RStudio" height="26px" src="https://user-images.githubusercontent.com/44923423/166214136-a1bd2143-d41e-40e0-9d72-2909ddc3ec5e.png"/>
-<img align="left" alt="Tableau" height="40px" src="https://user-images.githubusercontent.com/44923423/166217656-a73157ac-b5b6-43e2-b398-165ffbf876c1.png"/>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=widesu" alt="widesu" /></a> </p>
 
-<!--
-**WideSu/WideSu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on [predictive maintenance for diamond cutter machines](https://github.com/WideSu/DWS_PDM)
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Recommendar System, and NLP**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 I’m looking to collaborate on **reinforcement learning for star war 2**
 
+- 🤝 I’m looking for help with [control and adjust the temperature to produce wafers](https://github.com/WideSu/MOCVD)
+
+- 👨‍💻 All of my projects are available at [https://github.com/WideSu](https://github.com/WideSu)
+
+- 📝 I regularly write articles on [https://master--huanganni.netlify.app/](https://master--huanganni.netlify.app/)
+
+- 💬 Ask me about **machine learning, MySQL**
+
+- 📫 How to reach me **annihuang.2021@mitb.smu.edu.sg.**
+
+- 📄 Know about my experiences [https://master--huanganni.netlify.app/huanganni.html](https://master--huanganni.netlify.app/huanganni.html)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/huang anni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="huang anni" height="30" width="40" /></a>
+<a href="https://kaggle.com/anni huang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="anni huang" height="30" width="40" /></a>
+<a href="https://fb.com/anni huang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anni huang" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/anni huang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="anni huang" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/wide su" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="wide su" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@annihuang.2021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@annihuang.2021" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=widesu&show_icons=true&locale=en&layout=compact" alt="widesu" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=widesu&" alt="widesu" /></p>
