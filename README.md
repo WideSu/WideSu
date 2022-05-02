@@ -12,6 +12,15 @@
 - 🔭 I’m currently studying **Artificial Intelligence** at Singapore Management University and will graduate in **Feb 2023**
 - 🌱 I’m learning **Machine Learning Engineering(MLops), Recommendation System, Natural Language Processing and Project Management** this term, which is also **my last term**(I finished my courses earlier)
 - ✨ I'm doing a full-time internship(6th Dec 2021- 6th Jun 2022) as a **Machine Learning Engineer Intern** in IKAS Industry, a company focusing on AI algorithms, real-time planning, and scheduling in the semi-conductor domain. I think AI in the semi-conductor domain is promising since China is promoting their research in chips and our research can help them to optimize their decisions in factories. I have done two projects. One is the classification problem: predictive maintenance for time series data of machines. The other is regression problem: optimizing the temperature adjustment algorithm for producing wafers using all kinds of regression algorithms. I will be a **research assistant @SMU** starting from **June** concentrating on **reinforcement learning in real-time strategy games**.
+ 
+### Languages and Tools:
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="MySQL" width="26px" src="https://user-images.githubusercontent.com/44923423/166213966-202e34ea-43b5-47bf-918d-9ac903dc77b5.png" />
+<img align="left" alt="RStudio" width="26px" src="https://user-images.githubusercontent.com/44923423/166214136-a1bd2143-d41e-40e0-9d72-2909ddc3ec5e.png"/>
+
+<br />
+<br />
 
 ---
 
