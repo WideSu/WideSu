@@ -10,7 +10,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=widesu&show_icons=true&locale=en&layout=compact" alt="widesu" /></p>
 </tr>
 </table>
-
+<br />
 
 - 🔭 I’m currently working on [predictive maintenance for diamond cutter machines](https://github.com/WideSu/DWS_PDM)
 
