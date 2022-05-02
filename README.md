@@ -1,6 +1,7 @@
 <h1>
   hey, I'm HUANG Anni
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  
   <br>[![LinkedIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&color=%23003140&logoColor=white)](https://www.linkedin.com/in/annihuang2021/)</br>
 </h1>
 <table>
