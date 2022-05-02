@@ -9,7 +9,8 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=widesu" alt="widesu" /></a> </p>
  -->
- 
+
+-------
 
 - 🔭 I’m currently working on [predictive maintenance for diamond cutter machines](https://github.com/WideSu/DWS_PDM)
 
