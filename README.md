@@ -1,7 +1,7 @@
-### Hi, I'm HUANG Anni 👋
 <h1>
-  hey there
+  hey, I'm HUANG Anni
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  [![LinkedIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&color=%23003140&logoColor=white)](https://www.linkedin.com/in/annihuang2021/)
 </h1>
 <table>
 <tr>
@@ -23,13 +23,6 @@
 <img align="left" alt="MySQL" height="26px" src="https://user-images.githubusercontent.com/44923423/166213966-202e34ea-43b5-47bf-918d-9ac903dc77b5.png" />
 <img align="left" alt="RStudio" height="26px" src="https://user-images.githubusercontent.com/44923423/166214136-a1bd2143-d41e-40e0-9d72-2909ddc3ec5e.png"/>
 
-<br />
-<br />
-
----
-
-### 📫 Contact me via:
-  [![LinkedIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&color=%23003140&logoColor=white)](https://www.linkedin.com/in/annihuang2021/)
 
 <!--
 **WideSu/WideSu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
