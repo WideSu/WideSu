@@ -10,7 +10,7 @@
   </th>
   <th>
     <p>
-      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=widesu&show_icons=true&locale=en&layout=compact&hide=javascript,html" alt="widesu" />
+      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=widesu&show_icons=true&locale=en&layout=compact&hide=javascript,html,css" alt="widesu" />
     </p>
   </th>
 </tr>
