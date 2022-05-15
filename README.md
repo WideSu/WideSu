@@ -24,9 +24,9 @@
 
 - 🤝 I’m looking for help with [control and adjust the temperature to produce wafers](https://github.com/WideSu/MOCVD)
 
-- 👨‍💻 All of my projects are available at [https://github.com/WideSu](https://github.com/WideSu)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/WideSu)
 
-- 📝 I regularly write articles on [https://master--huanganni.netlify.app/](https://master--huanganni.netlify.app/)
+- 📝 I posts visual analysis weekly about [VAST City Challenge](https://vast-challenge.github.io/2022/) on [a Distill website](https://master--huanganni.netlify.app/)
 
 - 💬 Ask me about **machine learning, MySQL**
 
