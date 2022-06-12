@@ -22,9 +22,9 @@
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/WideSu)
 
-- 📝 I posts visual analysis weekly about on [a Distill website](https://master--huanganni.netlify.app/) for ADL, social network, and timeseries data([Check its GitHub Repo](https://github.com/WideSu/VA))
+- 📝 I posts visual analysis weekly about on [a Distill website](https://master--huanganni.netlify.app/) for activity log data, social network, and timeseries data([Check its GitHub Repo](https://github.com/WideSu/VA))
 
-- 💬 Ask me about **machine learning, MySQL, data visualisation**
+- 💬 Ask me about **machine learning, MySQL, data visualisation, and Google Cloud Platform**
 
 - 📫 How to reach me **annihuang.2021@mitb.smu.edu.sg.**
 
