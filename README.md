@@ -18,7 +18,7 @@
 
 - 🔭 I’m currently working on [Session Based Recommendation](https://github.com/AmazingDD/serenRec) for Steam games, which uses SOTA algorithms such as GRU4Rec, STAMP, and some tranditional agorithms such as S-POP, S-BPR, S-KNN.
 
-- 🌱 I’m currently learning **Recommendar System, and NLP**
+- 🌱 I’m currently learning **Recommendar System, Natrual Language Processing, and Project Management**
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/WideSu)
 
