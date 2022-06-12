@@ -18,13 +18,11 @@
 
 - 🔭 I’m currently working on [Session Based Recommendation](https://github.com/AmazingDD/serenRec) for Steam games, which uses SOTA algorithms such as GRU4Rec, STAMP, and some tranditional agorithms such as S-POP, S-BPR, S-KNN.
 
-- 🌱 I’m currently learning **Recommendar System, Natrual Language Processing, and Project Management**
-
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/WideSu)
+- 🌱 I’m currently learning **Recommendar System, Natrual Language Processing, MLops, and Project Management**
 
 - 📝 I posts visual analysis weekly about on [a Distill website](https://master--huanganni.netlify.app/) for activity log data, social network, and timeseries data([Check its GitHub Repo](https://github.com/WideSu/VA))
 
-- 💬 Ask me about **machine learning, MySQL, data visualisation, and Google Cloud Platform**
+- 💬 Ask me about **machine learning, MySQL, data visualisation, and MLops**
 
 - 📫 How to reach me **annihuang.2021@mitb.smu.edu.sg.**
 
