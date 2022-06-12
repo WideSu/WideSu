@@ -22,7 +22,7 @@
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/WideSu)
 
-- 📝 I posts visual analysis weekly about [VAST City Challenge](https://vast-challenge.github.io/2022/) on [a Distill website](https://master--huanganni.netlify.app/)([GitHub Repo](https://github.com/WideSu/VA))
+- 📝 I posts visual analysis weekly about on [a Distill website](https://master--huanganni.netlify.app/) for ADL, social network, and timeseries data([Check its GitHub Repo](https://github.com/WideSu/VA))
 
 - 💬 Ask me about **machine learning, MySQL, data visualisation**
 
