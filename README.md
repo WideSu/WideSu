@@ -1,4 +1,5 @@
 <h1 align="center">Hi, I'm Anni HUANG</h1>
+<h3 align="center">A data science enthusiast</h3>
 <p> <img align="left" src="https://komarev.com/ghpvc/?username=widesu&label=Profile%20views&color=0e75b6&style=flat" alt="widesu" /> </p>
 <table>
 <tr>
@@ -15,19 +16,15 @@
 </tr>
 </table>
 
-- 🔭 I’m currently working on [predictive maintenance for diamond cutter machines](https://github.com/WideSu/DWS_PDM)
+- 🔭 I’m currently working on [Session Based Recommendation](https://github.com/AmazingDD/serenRec) for Steam games, which uses SOTA algorithms such as GRU4Rec, STAMP, and some tranditional agorithms such as S-POP, S-BPR, S-KNN.
 
 - 🌱 I’m currently learning **Recommendar System, and NLP**
-
-- 👯 I’m looking to collaborate on **reinforcement learning for star war 2**
-
-- 🤝 I’m looking for help with [control and adjust the temperature to produce wafers](https://github.com/WideSu/MOCVD)
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/WideSu)
 
 - 📝 I posts visual analysis weekly about [VAST City Challenge](https://vast-challenge.github.io/2022/) on [a Distill website](https://master--huanganni.netlify.app/)([GitHub Repo](https://github.com/WideSu/VA))
 
-- 💬 Ask me about **machine learning, MySQL**
+- 💬 Ask me about **machine learning, MySQL, data visualisation**
 
 - 📫 How to reach me **annihuang.2021@mitb.smu.edu.sg.**
 
