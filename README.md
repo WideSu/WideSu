@@ -16,11 +16,9 @@
 </tr>
 </table>
 
-- 🔭 I’m currently working on [Session Based Recommendation](https://github.com/AmazingDD/serenRec) for Steam games, which uses SOTA algorithms such as GRU4Rec, STAMP, and some tranditional agorithms such as S-POP, S-BPR, S-KNN.
+- 🔭 I will graduate in August from SMU MITB AI track
 
-- 🌱 I’m currently learning **Recommendar System, Natrual Language Processing, MLops, and Project Management**
-
-- 📝 I posts visual analysis weekly about on [a Distill website](https://master--huanganni.netlify.app/) for activity log data, social network, and timeseries data([Check its GitHub Repo](https://github.com/WideSu/VA))
+- 🌱 My research interest is in AI application for [Education](https://github.com/WideSu/lectureNoteAssistant), and healthcare. I’m recently reading research papers of wearable devices, and trying to fix my research proposal which I will be working on for next four years.
 
 - 💬 Ask me about **machine learning, MySQL, data visualisation, and MLops**
 
