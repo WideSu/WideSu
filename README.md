@@ -18,7 +18,7 @@
 
 - 🔭 I will graduate in August from SMU MITB AI track
 
-- 🌱 My research interest is in AI application for [Education](https://github.com/WideSu/lectureNoteAssistant), and healthcare. I’m recently reading research papers of wearable devices, and trying to fix my research proposal which I will be working on for next four years.
+- 🌱 My research interest is in AI application for [education](https://github.com/WideSu/lectureNoteAssistant), and healthcare. I’m recently reading research papers of wearable devices, and trying to fix my research proposal which I will be working on for next four years.
 
 - 💬 Ask me about **machine learning, MySQL, data visualisation, and MLops**
 
