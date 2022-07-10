@@ -20,7 +20,7 @@
 
 - 🌱 My research interest is in AI application for [education](https://github.com/WideSu/lectureNoteAssistant), and healthcare. I’m recently reading research papers of wearable devices, and trying to fix my research proposal which I will be working on for next four years.
 
-- 💬 I am familiar with R([distill website using R](https://github.com/WideSu/VA)), and Golang (a desktop App which can generate transcripts using Aliyun SDK [Github Repo](https://github.com/WideSu/lectureNoteAssistant))
+- 💬 I am familiar with R([distill website using R](https://github.com/WideSu/VA)), and Golang (a [desktop App which can generate transcripts using Aliyun SDK](https://github.com/WideSu/lectureNoteAssistant))
 - 📫 How to reach me **annihuang.2021@mitb.smu.edu.sg.**
 
 - 📄 Know about my experiences [https://master--huanganni.netlify.app/huanganni.html](https://master--huanganni.netlify.app/huanganni.html)
