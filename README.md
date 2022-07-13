@@ -24,6 +24,11 @@
 - 📫 How to reach me **annihuang.2021@mitb.smu.edu.sg.**
 - 📄 Check my weekly blogs on my research website [WideSu.github.io](https://widesu.github.io/posts/2022/06/blog-post-1/)
 
+<h3 align="left">Skills:</h3>
+- Data visualisation using [R](https://vaprojectgroup9.netlify.app/), Seaborn, and [Tableau](https://public.tableau.com/app/profile/huang.anni)
+- MySQL, Modeling: I was a machine learning engineer in semi-conduct industry
+- Deliver complex concept using few sentences: check my [personal website](https://widesu.github.io/) for quant analysis, speech enhancement and reinforcement learning 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <!-- <a href="https://twitter.com/@annihuang8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@annihuang8" height="30" width="40" /></a> -->
