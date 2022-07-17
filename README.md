@@ -20,7 +20,7 @@
 
 - 🌱 I am interested to develop AI applications in NLP/CV, and data analysis projects
 
-- 💬 Besides Python which I used daily, I am also familiar with **R**([distill website using R](https://github.com/WideSu/VA)), can do some **Golang** (a [desktop App which can generate transcripts using Aliyun SDK](https://github.com/WideSu/lectureNoteAssistant)), and **C** ([a compiler written in C](https://github.com/WideSu/Compiler))
+- 💬 Besides Python which I used daily, I am also familiar with **R**([distill website using R](https://github.com/WideSu/VA)), Java(https://github.com/WideSu/JavaEEWeb), can do some **Golang** (a [desktop App which can generate transcripts using Aliyun SDK](https://github.com/WideSu/lectureNoteAssistant)), and **C** ([a compiler written in C](https://github.com/WideSu/Compiler))
 - 📫 How to reach me **annihuang.2021@mitb.smu.edu.sg.**
 - 📄 My personal website [WideSu.github.io](https://widesu.github.io/)
 
