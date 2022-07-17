@@ -22,7 +22,7 @@
 
 - 💬 Besides Python which I used daily, I am also familiar with **R**([distill website using R](https://github.com/WideSu/VA)), can do some **Golang** (a [desktop App which can generate transcripts using Aliyun SDK](https://github.com/WideSu/lectureNoteAssistant)), and **C** ([a compiler written in C](https://github.com/WideSu/Compiler))
 - 📫 How to reach me **annihuang.2021@mitb.smu.edu.sg.**
-- 📄 Check my weekly blogs on my research website [WideSu.github.io](https://widesu.github.io/posts/2022/06/blog-post-1/)
+- 📄 My personal website [WideSu.github.io](https://widesu.github.io/)
 
 <h3 align="left">Skills:</h3>
 
