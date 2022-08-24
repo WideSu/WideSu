@@ -16,7 +16,7 @@
 </tr>
 </table>
 
-- 🔭 I will graduate in *September* from SMU MITB (AI track)
+- 🔭 I will graduate in **September** from SMU MITB (AI track)
 
 - 🌱 I am interested to develop AI applications in NLP/CV, and data analysis projects
 
