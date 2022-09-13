@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Anni HUANG</h1>
 <h3 align="center">A growing researcher in data science domain</h3>
-<table>
+<table align ="center">
 <tr>
   <th> 
     <p>
