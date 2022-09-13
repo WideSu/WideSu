@@ -1,6 +1,5 @@
 <h1 align="center">Hi, I'm Anni HUANG</h1>
-<h3 align="center">A data science enthusiast</h3>
-<p> <img align="left" src="https://komarev.com/ghpvc/?username=widesu&label=Profile%20views&color=0e75b6&style=flat" alt="widesu" /> </p>
+<h3 align="center">A growing researcher in data science domain</h3>
 <table>
 <tr>
   <th> 
