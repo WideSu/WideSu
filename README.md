@@ -10,7 +10,7 @@
 </tr>
 </table>
 
-- 🔭 I am a **research engineer** in **Singapore Management University**
+- 🔭 I am a **research engineer** in **Singapore Management University** who likes in-door climbing, badminton and cycling.
 
 - 🌱 I am interested to develop AI applications to help people live a better life
 
@@ -22,9 +22,9 @@
 
 - Data visualisation using [R](https://vaprojectgroup9.netlify.app/), Seaborn, and [Tableau](https://public.tableau.com/app/profile/huang.anni)
 
-- MySQL, Modeling: I was a machine learning engineer in semi-conduct industry
+- MySQL, Industrial machine learning experience: I was a machine learning engineer in semi-conduct industry
 
-- Deliver complex concept using few sentences: check my [personal website](https://widesu.github.io/) for quant analysis, speech enhancement and reinforcement learning 
+- Deliver complex concept using few sentences: check my [personal website](https://widesu.github.io/) for quant analysis, speech enhancement
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
