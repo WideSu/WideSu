@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Anni HUANG</h1>
-<h3 align="center">A researcher in data science for biomedical and healthcare domain</h3>
+<h3 align="center">A researcher in data science for biomedical and healthcare domains</h3>
 <table align ="center">
 <tr>
   <th> 
