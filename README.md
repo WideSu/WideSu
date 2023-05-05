@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Anni HUANG</h1>
-<h3 align="center">A researcher in data science for biomedical and healthcare domains</h3>
+<h3 align="center">A researcher in data science in healthcare domains</h3>
 <table align ="center">
 <tr>
   <th> 
@@ -10,9 +10,9 @@
 </tr>
 </table>
 
-- 🔭 I am a **research engineer** in **Singapore Management University** who likes in-door climbing, badminton and cycling.
+- 🔭 I am a **research engineer** in **Singapore Management University** under SMU-A* star Joint Lab who likes in-door climbing, badminton and cycling.
 
-- 🌱 I am interested in Data Science in Biomedical and Healthcare domain.
+- 🌱 I am interested in Data Science in Healthcare domain.
 
 - 💬 Besides Python which I used daily, I am also familiar with **R**([distill website using R](https://github.com/WideSu/VA)), Java(https://github.com/WideSu/JavaEEWeb), can do some **Golang** (a [desktop App which can generate transcripts using Aliyun SDK](https://github.com/WideSu/lectureNoteAssistant)), and **C** ([a compiler written in C](https://github.com/WideSu/Compiler))
 - 📫 How to reach me **annihuang.2021@mitb.smu.edu.sg.**
