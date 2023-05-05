@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Anni HUANG</h1>
-<h3 align="center">A researcher in data science in healthcare domains</h3>
+<h3 align="center">A researcher in data science in healthcare domain</h3>
 <table align ="center">
 <tr>
   <th> 
@@ -10,7 +10,7 @@
 </tr>
 </table>
 
-- 🔭 I am a **research engineer** in **Singapore Management University** under SMU-A* star Joint Lab who likes in-door climbing, badminton and cycling.
+- 🔭 I am a **research engineer** in **Singapore Management University** under [SMU-A* star Joint Lab](https://site.smu.edu.sg/sajl) who likes in-door climbing, badminton and cycling.
 
 - 🌱 I am interested in Data Science in Healthcare domain.
 
