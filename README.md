@@ -15,7 +15,7 @@
 - 🌱 I am interested in Data Science in Healthcare domain.
 
 - 💬 Besides Python which I used daily, I am also familiar with **R**([distill website using R](https://github.com/WideSu/VA)), Java(https://github.com/WideSu/JavaEEWeb), can do some **Golang** (a [desktop App which can generate transcripts using Aliyun SDK](https://github.com/WideSu/lectureNoteAssistant)), and **C** ([a compiler written in C](https://github.com/WideSu/Compiler))
-- 📫 How to reach me **annihuang.2021@mitb.smu.edu.sg.**
+- 📫 How to reach me **annihuang@smu.edu.sg.**
 - 📄 My personal website [WideSu.github.io](https://widesu.github.io/)
 
 <h3 align="left">Skills:</h3>
