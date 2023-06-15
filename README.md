@@ -10,7 +10,7 @@
 </tr>
 </table>
 
-- 🔭 I am a **research engineer** in **Singapore Management University** under [SMU-A* star Joint Lab](https://site.smu.edu.sg/sajl) who likes in-door climbing, badminton and cycling.
+- 🔭 I am a **research engineer** in **Singapore Management University** under [SMU-A* star Joint Lab](https://site.smu.edu.sg/sajl).
 
 - 🌱 I am interested in Data Science in Healthcare domain.
 
