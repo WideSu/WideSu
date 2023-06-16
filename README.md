@@ -1,20 +1,23 @@
 <h1 align="center">Hi, I'm Anni HUANG from SMU-A* star joint lab</h1>
 
 <h3 align="left">Projects:</h3>
+- 2022 
+ - 2022 VAST challenge analysis[(GitHub Repo)](https://www.linkedin.com/in/annihuang2021/details/projects/)
+ - 2021 Session-based recommendation for Amazon baby products `recommendation system` `pytorch`[(GitHub Repo)](https://github.com/WideSu/serenRec)
 
-- Session-based recommendation for Amazon baby products `recommendation system` `pytorch`[(GitHub Repo)](https://github.com/WideSu/serenRec)
+- 2021 
 
-- 2019 International University Time Tabling using CP and MIP `optimisation`[(GitHub Repo)](https://github.com/WideSu/CS606_ITC)
-
-- Lecture Note Assistant `audio-to-text` `auto-translation` `multi-language translation`[(GitHub Repo)](https://github.com/WideSu/lectureNoteAssistant)
-
-- Multi-language Named Entity Recognition using Pre-trained Transformers `NLP`[(GitHub Repo)](https://github.com/WideSu/Vanilla-NER/tree/main)
-
-- Breast Cancer Histological Images classifier via CNN `CV` `keras`[(GitHub Repo)](https://github.com/WideSu/CancerDaignosisApp)
-
-- Stock Recommendation via Supervised Machine Learning models `sklearn` `machine-learning` `stock-recommendation`[(GitHub Repo)](https://github.com/WideSu/Stock-recommandation-via-machine-learning-algorithms)
-
-- 2019 Huawei Compiler Design Contest, Compiler for an C- language `compiler` `linux`[(GitHub Repo)](https://github.com/WideSu/Compiler)
+ - International University Time Tabling using CP and MIP `optimisation`[(GitHub Repo)](https://github.com/WideSu/CS606_ITC)
+ 
+ - Multi-language Named Entity Recognition using Pre-trained Transformers `NLP`[(GitHub Repo)](https://github.com/WideSu/Vanilla-NER/tree/main)
+- 2019
+ - Lecture Note Assistant `audio-to-text` `auto-translation` `multi-language translation`[(GitHub Repo)](https://github.com/WideSu/lectureNoteAssistant)
+ 
+ - Breast Cancer Histological Images classifier via CNN `CV` `keras`[(GitHub Repo)](https://github.com/WideSu/CancerDaignosisApp)
+ 
+ - Stock Recommendation via Supervised Machine Learning models `sklearn` `machine-learning` `stock-recommendation`[(GitHub Repo)](https://github.com/WideSu/Stock-recommandation-via-machine-learning-algorithms)
+ 
+ - 2019 Huawei Compiler Design Contest, Compiler for an C- language `compiler` `linux`[(GitHub Repo)](https://github.com/WideSu/Compiler)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
