@@ -2,13 +2,19 @@
 
 <h3 align="left">Projects:</h3>
 
-- Session-based recommendation for Amazon baby products `recommendation system`[(GitHub Repo)](https://github.com/WideSu/serenRec)
+- Session-based recommendation for Amazon baby products `recommendation system` `pytorch`[(GitHub Repo)](https://github.com/WideSu/serenRec)
 
 - 2019 International University Time Tabling using CP and MIP `optimisation`[(GitHub Repo)](https://github.com/WideSu/CS606_ITC)
 
 - Lecture Note Assistant `audio-to-text` `auto-translation` `multi-language translation`[(GitHub Repo)](https://github.com/WideSu/lectureNoteAssistant)
 
 - Multi-language Named Entity Recognition using Pre-trained Transformers `NLP`[(GitHub Repo)](https://github.com/WideSu/Vanilla-NER/tree/main)
+
+- Breast Cancer Histological Images classifier via CNN `CV` `keras`[(GitHub Repo)](https://github.com/WideSu/CancerDaignosisApp)
+
+- Stock Recommendation via Supervised Machine Learning models `sklearn` `stock-recommendation`[(GitHub Repo)](https://github.com/WideSu/Stock-recommandation-via-machine-learning-algorithms)
+
+- 2019 Huawei Compiler Design Contest, Compiler for an C- language `compiler` `linux`[(GitHub Repo)](https://github.com/WideSu/Compiler)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
