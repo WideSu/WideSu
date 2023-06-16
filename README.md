@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Anni HUANG</h1>
-<h3 align="center">a researcher from SMU-A* STAR joint lab</h3>
+<text align="center">a researcher from SMU-A* STAR joint lab</text>
 
 <h3 align="left">Projects:</h3>
 
