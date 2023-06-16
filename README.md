@@ -8,10 +8,13 @@
   - 2021 Session-based recommendation for Amazon baby products `recommendation system` `pytorch`[(GitHub Repo)](https://github.com/WideSu/serenRec)
 
 - 2021 
+
   - International University Time Tabling using CP and MIP `optimisation`[(GitHub Repo)](https://github.com/WideSu/CS606_ITC)
 
   - Multi-language Named Entity Recognition using Pre-trained Transformers `NLP`[(GitHub Repo)](https://github.com/WideSu/Vanilla-NER/tree/main)
+
 - 2019
+
  - Lecture Note Assistant `audio-to-text` `auto-translation` `multi-language translation`[(GitHub Repo)](https://github.com/WideSu/lectureNoteAssistant)
  
  - Breast Cancer Histological Images classifier via CNN `CV` `keras`[(GitHub Repo)](https://github.com/WideSu/CancerDaignosisApp)
