@@ -26,6 +26,14 @@
 
 - Deliver complex concept using few sentences: check my [personal website](https://widesu.github.io/) for quant analysis, speech enhancement
 
+<h3 align="left">Projects:</h3>
+
+- Session-based recommendation for Amazon baby products [GitHub Repo](https://github.com/WideSu/serenRec)
+
+- 2019 International University Time Tabling using CP and MIP [GitHub Repo](https://github.com/WideSu/CS606_ITC)
+
+- Lecture Note Assistant[GitHub Repo](https://github.com/WideSu/lectureNoteAssistant)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <!-- <a href="https://twitter.com/@annihuang8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@annihuang8" height="30" width="40" /></a> -->
