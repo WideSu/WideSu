@@ -16,7 +16,7 @@
   
   - Predictive Maintenance for Diamond Cutter Machines `machine learning` `sensor-data` `time-series` [Website](https://widesu.github.io/projects/project-1/) 
   
-  - Risk Detection for Loan Applicants `machine learning` `Finance` [(GitHub Repo)] (https://github.com/WideSu/ISSS610_CreditRiskDetection)
+  - Risk Detection for Loan Applicants `machine learning` `data-science-in-finance` [(GitHub Repo)] (https://github.com/WideSu/ISSS610_CreditRiskDetection)
 
 - 2021 
 
@@ -28,9 +28,9 @@
 
    - Lecture Note Assistant `audio-to-text` `auto-translation` `multi-language translation`[(GitHub Repo)](https://github.com/WideSu/lectureNoteAssistant)
 
-   - Breast Cancer Histological Images classifier via CNN `CV` `keras`[(GitHub Repo)](https://github.com/WideSu/CancerDaignosisApp)
+   - Breast Cancer Histological Images classifier via CNN `CV` `keras` `AI-in-healthcare` [(GitHub Repo)](https://github.com/WideSu/CancerDaignosisApp)
 
-   - Stock Recommendation via Supervised Machine Learning models `sklearn` `machine-learning` `stock-recommendation`[(GitHub Repo)](https://github.com/WideSu/Stock-recommandation-via-machine-learning-algorithms)
+   - Stock Recommendation via Supervised Machine Learning models `sklearn` `machine-learning` `stock-recommendation` `data-science-in-finance` [(GitHub Repo)](https://github.com/WideSu/Stock-recommandation-via-machine-learning-algorithms)
 
    - 2019 Huawei Compiler Design Contest, Compiler for an C- language `compiler` `linux`[(GitHub Repo)](https://github.com/WideSu/Compiler)
 
