@@ -1,8 +1,5 @@
 <h1 align="center">Hi, I'm Anni HUANG from SMU-A* star joint lab</h1>
-</table>
-- 📫 How to reach me **annihuang@smu.edu.sg.**
 
-- 📄 My personal website [WideSu.github.io](https://widesu.github.io/)
 <h3 align="left">Projects:</h3>
 
 - Session-based recommendation for Amazon baby products `recommendation system`[(GitHub Repo)](https://github.com/WideSu/serenRec)
