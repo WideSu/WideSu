@@ -1,6 +1,10 @@
-<h1 align="center">Hi, I'm Anni HUANG from SMU-A* star joint lab</h1>
+<h1 align="center">Hi, I'm Anni HUANG from SMU-A* STAR joint lab</h1>
 
 <h3 align="left">Projects:</h3>
+
+- 2023
+  
+  - SMU-A* STAR Joint Lab project (confidential)
 
 - 2022 
 
@@ -16,13 +20,13 @@
 
 - 2019
 
- - Lecture Note Assistant `audio-to-text` `auto-translation` `multi-language translation`[(GitHub Repo)](https://github.com/WideSu/lectureNoteAssistant)
- 
- - Breast Cancer Histological Images classifier via CNN `CV` `keras`[(GitHub Repo)](https://github.com/WideSu/CancerDaignosisApp)
- 
- - Stock Recommendation via Supervised Machine Learning models `sklearn` `machine-learning` `stock-recommendation`[(GitHub Repo)](https://github.com/WideSu/Stock-recommandation-via-machine-learning-algorithms)
- 
- - 2019 Huawei Compiler Design Contest, Compiler for an C- language `compiler` `linux`[(GitHub Repo)](https://github.com/WideSu/Compiler)
+   - Lecture Note Assistant `audio-to-text` `auto-translation` `multi-language translation`[(GitHub Repo)](https://github.com/WideSu/lectureNoteAssistant)
+
+   - Breast Cancer Histological Images classifier via CNN `CV` `keras`[(GitHub Repo)](https://github.com/WideSu/CancerDaignosisApp)
+
+   - Stock Recommendation via Supervised Machine Learning models `sklearn` `machine-learning` `stock-recommendation`[(GitHub Repo)](https://github.com/WideSu/Stock-recommandation-via-machine-learning-algorithms)
+
+   - 2019 Huawei Compiler Design Contest, Compiler for an C- language `compiler` `linux`[(GitHub Repo)](https://github.com/WideSu/Compiler)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
