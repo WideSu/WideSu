@@ -31,7 +31,7 @@
 - 2019 International University Time Tabling using CP and MIP `optimisation`[(GitHub Repo)](https://github.com/WideSu/CS606_ITC)
 
 - Lecture Note Assistant `GoLang` `audio-to-text` `auto-translation` `multi-language translation`[(GitHub Repo)](https://github.com/WideSu/lectureNoteAssistant)
-- Multi-language Named Entity Recognition using Pre-trained Transformers `NLP`(https://github.com/WideSu/Vanilla-NER/tree/main)
+- Multi-language Named Entity Recognition using Pre-trained Transformers `NLP`[(GitHub Repo)](https://github.com/WideSu/Vanilla-NER/tree/main)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
