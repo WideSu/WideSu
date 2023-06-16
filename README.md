@@ -32,7 +32,7 @@
 
 - 2019 International University Time Tabling using CP and MIP [GitHub Repo](https://github.com/WideSu/CS606_ITC)
 
-- Lecture Note Assistant[GitHub Repo](https://github.com/WideSu/lectureNoteAssistant)
+- Lecture Note Assistant [GitHub Repo](https://github.com/WideSu/lectureNoteAssistant)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
