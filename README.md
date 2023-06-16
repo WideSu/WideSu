@@ -8,9 +8,15 @@
 
 - 2022 
 
-  - 2022 VAST challenge analysis `R` `Shiny`[(GitHub Repo)](https://www.linkedin.com/in/annihuang2021/details/projects/)
+  - 2022 VAST challenge analysis `R` `Shiny` [(GitHub Repo)](https://www.linkedin.com/in/annihuang2021/details/projects/)
   
-  - 2021 Session-based recommendation for Amazon baby products `recommendation system` `pytorch`[(GitHub Repo)](https://github.com/WideSu/serenRec)
+  - Airline Delay Prediction on GCP `MLops` `GCP` [(Website)](https://widesu.github.io/projects/project-3/) 
+  
+  - Session-based recommendation for Amazon baby products `recommendation system` `pytorch`[(GitHub Repo)](https://github.com/WideSu/serenRec)
+  
+  - Predictive Maintenance for Diamond Cutter Machines `machine learning` `sensor-data` `time-series` [Website](https://widesu.github.io/projects/project-1/) 
+  
+  - Risk Detection for Loan Applicants `machine learning` `Finance` [(GitHub Repo)] (https://github.com/WideSu/ISSS610_CreditRiskDetection)
 
 - 2021 
 
