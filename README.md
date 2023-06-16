@@ -2,14 +2,15 @@
 
 <h3 align="left">Projects:</h3>
 - 2022 
- - 2022 VAST challenge analysis[(GitHub Repo)](https://www.linkedin.com/in/annihuang2021/details/projects/)
- - 2021 Session-based recommendation for Amazon baby products `recommendation system` `pytorch`[(GitHub Repo)](https://github.com/WideSu/serenRec)
+
+  - 2022 VAST challenge analysis `R` `Shiny`[(GitHub Repo)](https://www.linkedin.com/in/annihuang2021/details/projects/)
+  
+  - 2021 Session-based recommendation for Amazon baby products `recommendation system` `pytorch`[(GitHub Repo)](https://github.com/WideSu/serenRec)
 
 - 2021 
+  - International University Time Tabling using CP and MIP `optimisation`[(GitHub Repo)](https://github.com/WideSu/CS606_ITC)
 
- - International University Time Tabling using CP and MIP `optimisation`[(GitHub Repo)](https://github.com/WideSu/CS606_ITC)
- 
- - Multi-language Named Entity Recognition using Pre-trained Transformers `NLP`[(GitHub Repo)](https://github.com/WideSu/Vanilla-NER/tree/main)
+  - Multi-language Named Entity Recognition using Pre-trained Transformers `NLP`[(GitHub Repo)](https://github.com/WideSu/Vanilla-NER/tree/main)
 - 2019
  - Lecture Note Assistant `audio-to-text` `auto-translation` `multi-language translation`[(GitHub Repo)](https://github.com/WideSu/lectureNoteAssistant)
  
