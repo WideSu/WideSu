@@ -11,9 +11,7 @@
 </table>
 
 - 🔭 I am a **research engineer** in **Singapore Management University** under [SMU-A* star Joint Lab](https://site.smu.edu.sg/sajl).
-
 - 🌱 I am interested in Data Science in Healthcare domain.
-
 - 💬 Besides Python which I used daily, I am also familiar with **R**([distill website using R](https://github.com/WideSu/VA)), Java(https://github.com/WideSu/JavaEEWeb), can do some **Golang** (a [desktop App which can generate transcripts using Aliyun SDK](https://github.com/WideSu/lectureNoteAssistant)), and **C** ([a compiler written in C](https://github.com/WideSu/Compiler))
 - 📫 How to reach me **annihuang@smu.edu.sg.**
 - 📄 My personal website [WideSu.github.io](https://widesu.github.io/)
@@ -28,11 +26,12 @@
 
 <h3 align="left">Projects:</h3>
 
-- Session-based recommendation for Amazon baby products [GitHub Repo](https://github.com/WideSu/serenRec)
+- Session-based recommendation for Amazon baby products `recommendation system`[(GitHub Repo)](https://github.com/WideSu/serenRec)
 
-- 2019 International University Time Tabling using CP and MIP [GitHub Repo](https://github.com/WideSu/CS606_ITC)
+- 2019 International University Time Tabling using CP and MIP `optimisation`[(GitHub Repo)](https://github.com/WideSu/CS606_ITC)
 
-- Lecture Note Assistant [GitHub Repo](https://github.com/WideSu/lectureNoteAssistant)
+- Lecture Note Assistant `GoLang` `audio-to-text` `auto-translation` `multi-language translation`[(GitHub Repo)](https://github.com/WideSu/lectureNoteAssistant)
+- Multi-language Named Entity Recognition using Pre-trained Transformers `NLP`(https://github.com/WideSu/Vanilla-NER/tree/main)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
