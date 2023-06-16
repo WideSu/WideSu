@@ -4,7 +4,7 @@
 
 - 2023
   
-  - SMU-A* STAR Joint Lab project (confidential)
+  - SMU-A* STAR Joint Lab project [(Website)](https://site.smu.edu.sg/sajl#research-pillars/human-ai-synergy)
 
 - 2022 
 
