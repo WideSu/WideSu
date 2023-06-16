@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Anni HUANG from SMU-A* STAR joint lab</h1>
+<h1 align="center">Hi, I'm Anni HUANG, a researcher from SMU-A* STAR joint lab</h1>
 
 <h3 align="left">Projects:</h3>
 
