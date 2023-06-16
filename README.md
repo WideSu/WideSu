@@ -1,38 +1,12 @@
-<h1 align="center">Hi, I'm Anni HUANG</h1>
-<h3 align="center">A researcher in SMU-A* star joint lab</h3>
-<table align ="center">
-<tr>
-  <th> 
-    <p>
-      <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=widesu&" alt="widesu" />
-    </p>
-  </th>
-</tr>
+<h1 align="center">Hi, I'm Anni HUANG from SMU-A* star joint lab</h1>
 </table>
-
-- 🔭 I am a **research engineer** in **Singapore Management University** under [SMU-A* star Joint Lab](https://site.smu.edu.sg/sajl).
-- 🌱 I am interested in Data Science in Healthcare domain.
-- 💬 Besides Python which I used daily, I am also familiar with **R**([distill website using R](https://github.com/WideSu/VA)), Java(https://github.com/WideSu/JavaEEWeb), can do some **Golang** (a [desktop App which can generate transcripts using Aliyun SDK](https://github.com/WideSu/lectureNoteAssistant)), and **C** ([a compiler written in C](https://github.com/WideSu/Compiler))
 - 📫 How to reach me **annihuang@smu.edu.sg.**
 - 📄 My personal website [WideSu.github.io](https://widesu.github.io/)
-
-<h3 align="left">Skills:</h3>
-
-- Data visualisation using [R](https://vaprojectgroup9.netlify.app/), Seaborn, and [Tableau](https://public.tableau.com/app/profile/huang.anni)
-
-- MySQL, Industrial machine learning experience: I was a machine learning engineer in semi-conduct industry
-
-- Deliver complex concept using few sentences: check my [personal website](https://widesu.github.io/) for quant analysis, speech enhancement
-
 <h3 align="left">Projects:</h3>
-
 - Session-based recommendation for Amazon baby products `recommendation system`[(GitHub Repo)](https://github.com/WideSu/serenRec)
-
 - 2019 International University Time Tabling using CP and MIP `optimisation`[(GitHub Repo)](https://github.com/WideSu/CS606_ITC)
-
 - Lecture Note Assistant `GoLang` `audio-to-text` `auto-translation` `multi-language translation`[(GitHub Repo)](https://github.com/WideSu/lectureNoteAssistant)
 - Multi-language Named Entity Recognition using Pre-trained Transformers `NLP`[(GitHub Repo)](https://github.com/WideSu/Vanilla-NER/tree/main)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <!-- <a href="https://twitter.com/@annihuang8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@annihuang8" height="30" width="40" /></a> -->
