@@ -16,7 +16,7 @@
   
   - Predictive Maintenance for Diamond Cutter Machines `machine learning` `sensor-data` `time-series` [(Website)](https://widesu.github.io/projects/project-1/) 
   
-  - Risk Detection for Loan Applicants `machine learning` `data-science-in-finance` [(GitHub Repo)] (https://github.com/WideSu/ISSS610_CreditRiskDetection)
+  - Risk Detection for Loan Applicants `machine learning` `data-science-in-finance` [(GitHub Repo)](https://github.com/WideSu/ISSS610_CreditRiskDetection)
 
 - 2021 
 
