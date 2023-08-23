@@ -9,7 +9,7 @@
 
 - 2022 
 
-  - 2022 VAST challenge analysis: Demographics and Relationships for residence in Ohio City which helps urban planners to find the dominant regions, and demographics of residence interactively by providing bottoms, input and output boxes, and drag-down list on a public-accessible website using R Shiny `R` `Shiny` [(GitHub Repo)](https://github.com/WideSu/VAProject)
+  - 2022 Ohio City Urban Planning Analysis (Dashboard)-Residence Demographics and Prominant Business Districts `R` `Shiny` [(GitHub Repo)](https://github.com/WideSu/VAProject)
   
   - Airline Delay Prediction on GCP `MLops` `GCP` [(Website)](https://widesu.github.io/projects/project-3/) 
   
