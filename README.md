@@ -9,7 +9,7 @@
 
 - 2022 
 
-  - 2022 Ohio City Urban Planning Analysis (Dashboard)-Residence Demographics and Prominant Business Districts `R` `Shiny` [(GitHub Repo)](https://github.com/WideSu/VAProject)
+  - 2022 Ohio City Urban Planning Analysis (Dashboard)-Residence Demographics and Prominent Business Districts `R` `Shiny` [(GitHub Repo)](https://github.com/WideSu/VAProject)
   
   - Airline Delay Prediction on GCP `MLops` `GCP` [(Website)](https://widesu.github.io/projects/project-3/) 
   
