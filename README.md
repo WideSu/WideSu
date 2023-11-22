@@ -35,6 +35,9 @@
    - Stock Recommendation via Supervised Machine Learning models `sklearn` `machine-learning` `stock-recommendation` `data-science-in-finance` [(GitHub Repo)](https://github.com/WideSu/Stock-recommandation-via-machine-learning-algorithms)
 
    - 2019 Huawei Compiler Design Contest, Compiler for an C- language `compiler` `linux`[(GitHub Repo)](https://github.com/WideSu/Compiler)
+ - 2018
+   - Predictive Maintenance using Machine Learning Java EE Website [(Website)](https://widesu.github.io/projects/project-2/)
+     - SpringBoot, Bootstrap, Javascript, Html, MySQL 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
