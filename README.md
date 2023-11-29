@@ -4,7 +4,8 @@
 <h3 align="left">Projects:</h3>
 
 - 2023
-  - Typescript Fullstack Web Application [(Github)](https://github.com/WideSu?tab=repositories) [(Deployed Website on Azure)](https://typescript-fullstack.azurewebsites.net/)[(Deployed Website on Render)](https://dashboard.render.com/web/srv-clecb7vgsrdc739rgte0)
+  - Data Science Tutorial [(Github)](https://github.com/WideSu/Python/tree/master/07.%20Data%20Science)
+  # - Typescript Fullstack Web Application [(Github)](https://github.com/WideSu?tab=repositories) [(Deployed Website on Azure)](https://typescript-fullstack.azurewebsites.net/)[(Deployed Website on Render)](https://dashboard.render.com/web/srv-clecb7vgsrdc739rgte0)
   
   - SMU-A* STAR Joint Lab project [(Website)](https://site.smu.edu.sg/sajl#research-pillars/human-ai-synergy)
 
