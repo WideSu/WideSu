@@ -14,7 +14,7 @@
 
   - 2022 Ohio City Urban Planning Analysis (Dashboard)-Residence Demographics and Prominent Business Districts `R` `Shiny` `Dashboard`[(GitHub Repo)](https://github.com/WideSu/VAProject)
   
-  - Airline Delay Prediction on GCP `MLops` `GCP` [(Website)](https://widesu.github.io/projects/project-3/) 
+  - Airline Delay Prediction on GCP `MLops` `GCP` `CICD` `docker`[(Website)](https://widesu.github.io/projects/project-3/) 
   
   - Session-based recommendation for Amazon baby products `recommendation system` `pytorch`[(GitHub Repo)](https://github.com/WideSu/serenRec)
   
@@ -36,7 +36,7 @@
 
    - Stock Recommendation via Supervised Machine Learning models `sklearn` `machine-learning` `stock-recommendation` `data-science-in-finance` [(GitHub Repo)](https://github.com/WideSu/Stock-recommandation-via-machine-learning-algorithms)
 
-   - 2019 Huawei Compiler Design Contest, Compiler for an C- language `compiler` `linux`[(GitHub Repo)](https://github.com/WideSu/Compiler)
+   - 2019 Huawei Compiler Design Contest, Compiler for an C- language `compiler` `linux` `Docker` `CICD` `C`[(GitHub Repo)](https://github.com/WideSu/Compiler)
  - 2018
    - Predictive Maintenance using Machine Learning Java EE Website `Java` `SpringBoot` `full-stack` [(Website)](https://widesu.github.io/projects/project-2/)
      - SpringBoot, Bootstrap, Javascript, Html, MySQL, CSS
