@@ -12,7 +12,7 @@
 - 2022
   - Tableau Dashboard `Dashboard` [(Tableau Public)](https://public.tableau.com/app/profile/huang.anni/vizzes)
 
-  - 2022 Ohio City Urban Planning Analysis (Dashboard)-Residence Demographics and Prominent Business Districts `R` `Shiny` `Dashboard`[(GitHub Repo)](https://github.com/WideSu/VAProject)
+  - 2022 Ohio City Urban Planning Analysis-Residence Demographics and Prominent Business Districts `R` `Shiny` `Dashboard` `Geographical Data`[(GitHub Repo)](https://github.com/WideSu/VAProject)
   
   - Airline Delay Prediction on GCP `MLops` `GCP` `CICD` `docker`[(Website)](https://widesu.github.io/projects/project-3/) 
   
