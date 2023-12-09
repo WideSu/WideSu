@@ -4,7 +4,7 @@
 <h3 align="left">Projects:</h3>
 
 - 2023
-  - Data Science Tutorial [(Github)](https://github.com/WideSu/Data-Science-Tutorial)
+  - Data Science Tutorial `ml` `dl` `projects` `certificate` `algo`[(Github)](https://github.com/WideSu/Data-Science-Tutorial)
 
   - SMU-A* STAR Joint Lab project `machine learning` `sensor-data` `time-series` `AI-in-healthcare`[(Website)](https://site.smu.edu.sg/sajl#research-pillars/human-ai-synergy) 
 
