@@ -6,7 +6,7 @@
 - 2023
   - Data Science Tutorial [(Github)](https://github.com/WideSu/Data-Science-Tutorial)
 
-  - SMU-A* STAR Joint Lab project [(Website)](https://site.smu.edu.sg/sajl#research-pillars/human-ai-synergy)
+  - SMU-A* STAR Joint Lab project `machine learning` `sensor-data` `time-series` `AI-in-healthcare`[(Website)](https://site.smu.edu.sg/sajl#research-pillars/human-ai-synergy) 
 
 - 2022 
 
@@ -22,9 +22,9 @@
 
 - 2021 
 
-  - International University Time Tabling using CP and MIP `optimisation`[(GitHub Repo)](https://github.com/WideSu/CS606_ITC)
+  - International University Time Tabling using CP and MIP `optimisation``mixed interger programming` `constraint programming` [(GitHub Repo)](https://github.com/WideSu/CS606_ITC) 
 
-  - Multi-language Named Entity Recognition using Pre-trained Transformers `NLP`[(GitHub Repo)](https://github.com/WideSu/Vanilla-NER/tree/main)
+  - Multi-language Named Entity Recognition using Pre-trained Transformers `NLP` `transformer` `huggingface` `transfer learning`[(GitHub Repo)](https://github.com/WideSu/Vanilla-NER/tree/main) 
 
 - 2019
 
