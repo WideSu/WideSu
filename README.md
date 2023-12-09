@@ -8,9 +8,10 @@
 
   - SMU-A* STAR Joint Lab project `machine learning` `sensor-data` `time-series` `AI-in-healthcare`[(Website)](https://site.smu.edu.sg/sajl#research-pillars/human-ai-synergy) 
 
-- 2022 
+- 2022
+  - Tableau Dashboard `Dashboard` [(Tableau Public)](https://public.tableau.com/app/profile/huang.anni/vizzes)
 
-  - 2022 Ohio City Urban Planning Analysis (Dashboard)-Residence Demographics and Prominent Business Districts `R` `Shiny` [(GitHub Repo)](https://github.com/WideSu/VAProject)
+  - 2022 Ohio City Urban Planning Analysis (Dashboard)-Residence Demographics and Prominent Business Districts `R` `Shiny``Dashboard`[(GitHub Repo)](https://github.com/WideSu/VAProject)
   
   - Airline Delay Prediction on GCP `MLops` `GCP` [(Website)](https://widesu.github.io/projects/project-3/) 
   
