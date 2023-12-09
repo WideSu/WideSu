@@ -6,7 +6,8 @@
 - 2023
   - Data Science Tutorial `ml` `dl` `projects` `certificate` `algo`[(Github)](https://github.com/WideSu/Data-Science-Tutorial)
 
-  - SMU-A* STAR Joint Lab project `machine learning` `sensor-data` `time-series` `AI-in-healthcare`[(Website)](https://site.smu.edu.sg/sajl#research-pillars/human-ai-synergy) 
+  - SMU-A* STAR Joint Lab project `explainable machine learning` `sensor-data` `time-series` `AI-in-healthcare`[(Website)](https://site.smu.edu.sg/sajl#research-pillars/human-ai-synergy)
+    - AWS, XAI, Django, Dashboard, Linux, IRB
 
 - 2022
   - Tableau Dashboard `Dashboard` [(Tableau Public)](https://public.tableau.com/app/profile/huang.anni/vizzes)
@@ -38,7 +39,7 @@
    - 2019 Huawei Compiler Design Contest, Compiler for an C- language `compiler` `linux`[(GitHub Repo)](https://github.com/WideSu/Compiler)
  - 2018
    - Predictive Maintenance using Machine Learning Java EE Website `Java` `SpringBoot` `full-stack` [(Website)](https://widesu.github.io/projects/project-2/)
-     - SpringBoot, Bootstrap, Javascript, Html, MySQL 
+     - SpringBoot, Bootstrap, Javascript, Html, MySQL, CSS
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
