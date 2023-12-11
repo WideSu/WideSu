@@ -26,7 +26,7 @@
 
   - International University Time Tabling using CP and MIP `optimisation` `mixed interger programming` `constraint programming` [(GitHub Repo)](https://github.com/WideSu/CS606_ITC) 
 
-  - Multi-language Named Entity Recognition by transfer learning using model on Hugging Face `NLP` `transformer` `huggingface` `transfer learning`[(GitHub Repo)](https://github.com/WideSu/Vanilla-NER/tree/main) 
+  - Multi-language Named Entity Recognition `NLP` `transformer` `huggingface` `transfer learning`[(GitHub Repo)](https://github.com/WideSu/Vanilla-NER/tree/main) 
 
 - 2019
 
