@@ -14,7 +14,8 @@
 
   - 2022 Ohio City Urban Planning Analysis-Residence Demographics and Prominent Business Districts `R` `Shiny` `Dashboard` `Geographical Data`[(GitHub Repo)](https://github.com/WideSu/VAProject)
   
-  - Airline Delay Prediction on GCP `MLops` `GCP` `CICD` `docker`[(Website)](https://widesu.github.io/projects/project-3/) 
+  - Airline Delay Prediction on GCP `MLops` `GCP` `CICD` `docker`[(Website)](https://widesu.github.io/projects/project-3/)
+  - Multilingual Named Entity Recognition `NLP` `transformer` `huggingface` `transfer learning`[(GitHub Repo)](https://github.com/WideSu/Vanilla-NER/tree/main) 
   
   - Session-based recommendation for Amazon baby products `recommendation system` `pytorch`[(GitHub Repo)](https://github.com/WideSu/serenRec)
   
@@ -25,8 +26,6 @@
 - 2021 
 
   - International University Time Tabling using CP and MIP `optimisation` `mixed interger programming` `constraint programming` [(GitHub Repo)](https://github.com/WideSu/CS606_ITC) 
-
-  - Multilingual Named Entity Recognition `NLP` `transformer` `huggingface` `transfer learning`[(GitHub Repo)](https://github.com/WideSu/Vanilla-NER/tree/main) 
 
 - 2019
 
