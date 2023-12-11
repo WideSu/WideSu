@@ -24,9 +24,9 @@
 
 - 2021 
 
-  - International University Time Tabling using CP and MIP `optimisation``mixed interger programming` `constraint programming` [(GitHub Repo)](https://github.com/WideSu/CS606_ITC) 
+  - International University Time Tabling using CP and MIP `optimisation` `mixed interger programming` `constraint programming` [(GitHub Repo)](https://github.com/WideSu/CS606_ITC) 
 
-  - Multi-language Named Entity Recognition using Pre-trained Transformers `NLP` `transformer` `huggingface` `transfer learning`[(GitHub Repo)](https://github.com/WideSu/Vanilla-NER/tree/main) 
+  - Multi-language Named Entity Recognition by transfer learning using Pre-trained Transformer Model on Hugging Face `NLP` `transformer` `huggingface` `transfer learning`[(GitHub Repo)](https://github.com/WideSu/Vanilla-NER/tree/main) 
 
 - 2019
 
