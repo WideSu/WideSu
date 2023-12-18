@@ -10,6 +10,7 @@
     - AWS, XAI, Django, Dashboard, Linux, IRB
 
 - 2022
+  - Personal Website[(GitHub)](https://github.com/WideSu/WideSu.github.io)[(Website)](https://widesu.github.io/)
   - Tableau Dashboard `Dashboard` [(Tableau Public)](https://public.tableau.com/app/profile/huang.anni/vizzes)
 
   - 2022 Ohio City Urban Planning Analysis-Residence Demographics and Prominent Business Districts `R` `Shiny` `Dashboard` `Geographical Data`[(GitHub Repo)](https://github.com/WideSu/VAProject)
