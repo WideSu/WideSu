@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Anni HUANG</h1>
-<h5 align="center">A*STAR Joint Lab Research Scientist in AI in Healthcare</h5>
+<h5 align="center">A*STAR Joint Lab Research Scientist(AI in Healthcare)</h5>
 <h3 aligin="left"> What did I do? </h3>
 <details>
 <summary>Data Scientist 📊</summary>
