@@ -38,14 +38,14 @@
 <summary>Data Engineer 🍥</summary>
   <ul>
     <li><a href="https://widesu.github.io/projects/project-3/">Airline Delay Prediction on GCP</a></li>
-    <li><a href="https://site.smu.edu.sg/sajl#research-pillars/human-ai-synergy">AWS dataware house, Django backend system, Realtime dashboard with A*STAR Joint Lab during my current job</li>
+    <li><a href="https://site.smu.edu.sg/sajl#research-pillars/human-ai-synergy">Current research scientist job with A*STAR Joint Lab</li>
   </ul>
 </details>
 <details>
 <summary>Open Source Projects 🍥</summary>
   <ul>
-    <li><a href="https://github.com/WideSu/lectureNoteAssistant">Lecture Note Assistant `audio-to-text` `auto-translation` `multi-language translation`</a></li>
-    <li><a href="">2019 Huawei Compiler Design Contest, Compiler for an C- language `compiler` `linux` `Docker` `CICD` `C`</a></li>
+    <li><a href="https://github.com/WideSu/lectureNoteAssistant">Lecture Note Assistant</a></li>
+    <li><a href="">2019 Huawei Compiler Design Contest, Compiler for an C- language</a></li>
     <li>Many more on and out of Github...</li>
   </ul>
 </details>
