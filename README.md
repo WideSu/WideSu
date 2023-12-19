@@ -37,7 +37,6 @@
     <li>Many more on and out of Github...</li>
   </ul>
 </details>
-<details>
 
 
 <h3 align="left">Projects:</h3>
