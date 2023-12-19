@@ -1,5 +1,46 @@
 <h1 align="center">Hi, I'm Anni HUANG</h1>
 <h5 align="center">A*STAR Joint Lab Research Scientist in AI in Healthcare</h5>
+<h3 aligin="left"> What did I do? </h3>
+<details>
+<summary>Data Scientist 📊</summary>
+<ul>
+  <li><a href="https://github.com/WideSu/Stock-recommandation-via-machine-learning-algorithms">Stock Recommendation via Supervised Machine Learning models `sklearn` `machine-learning` `stock-recommendation` `data-science-in-finance`</a></li>
+  <li><a href="https://github.com/WideSu/Data-Science-Tutorial/tree/master/4-Data%20Science%20Projects/NLP/3-Multi-ligual%20Named%20Entity%20Recognition">Multilingual Named Entity Recognition `NLP` `transformer` `huggingface` `transfer learning`</a></li>
+  <li><a href="https://github.com/WideSu/Vanilla-NER/tree/main">Breast Cancer Histological Images classifier via CNN `CV` `Tensorflow keras` `AI-in-healthcare`</a></li>
+  <li><a href="https://github.com/WideSu/Data-Science-Tutorial/tree/master/4-Data%20Science%20Projects/Tabular%20Data/5-Credit_Risk_Detection">Bank Churn `Sklearn``AI-in-healthcare` </a></li>
+  <li>Many more on and out of Github...</li>
+</ul>
+</details>
+<details>
+<summary>Data Analyst 🍥</summary>
+  <ul>
+    <li><a href="https://public.tableau.com/app/profile/huang.anni/vizzes">tableau dashboard</a></li>
+    <li><a href="https://github.com/WideSu/VAProject">Ohio City Urban Planning Analysis-Residence Demographics and Prominent Business Districts `R` `Shiny` `Dashboard` `Geographical Data`</a></li>
+    <li><a href="https://github.com/WideSu/Stock-recommandation-via-machine-learning-algorithms">Stock Recommendation via Supervised Machine Learning models `sklearn` `machine-learning` `stock-recommendation` `data-science-in-finance`</a></li>
+    <li><a href="https://github.com/ashutosh1919/neurostack">neurostack</a></li>
+    <li><a href="https://github.com/ashutosh1919/Full_Stack_Web_Development_Course">Full-Stack-Web-Development-Course</a></li>
+    <li>Many more on and out of Github...</li>
+  </ul>
+</details>
+<details>
+<details>
+<summary>Data Engineer 🍥</summary>
+  <ul>
+    <li><a href="https://widesu.github.io/projects/project-3/">Airline Delay Prediction on GCP `MLops` `GCP` `CICD` `docker`</a></li>
+    <li>Many more on and out of Github...</li>
+  </ul>
+</details>
+<details>
+<details>
+<summary>Open Source Projects 🍥</summary>
+  <ul>
+    <li><a href="https://github.com/WideSu/lectureNoteAssistant">Lecture Note Assistant `audio-to-text` `auto-translation` `multi-language translation`</a></li>
+    <li><a href="">2019 Huawei Compiler Design Contest, Compiler for an C- language `compiler` `linux` `Docker` `CICD` `C`</a></li>
+    <li>Many more on and out of Github...</li>
+  </ul>
+</details>
+<details>
+
 
 <h3 align="left">Projects:</h3>
 
