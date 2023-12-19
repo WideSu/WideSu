@@ -44,7 +44,7 @@
 <details>
 <summary>Data Analyst 🍥</summary>
   <ul>
-    <li><a href="https://public.tableau.com/app/profile/huang.anni/vizzes">tableau dashboard</a></li>
+    <li><a href="https://public.tableau.com/app/profile/huang.anni/vizzes">Tableau dashboard</a></li>
     <li><a href="https://github.com/WideSu/VAProject">Ohio City Urban Planning Analysis-Residence Demographics and Prominent Business Districts</a></li>
     <li><a href="https://github.com/WideSu/Stock-recommandation-via-machine-learning-algorithms">Stock Recommendation via Supervised Machine Learning models</a></li>
     <li><a href="https://github.com/WideSu/Data-Science-Tutorial/tree/master/4-Data%20Science%20Projects/Tabular%20Data/1-Titanic">Predict survival on the Titanic</a></li> 
