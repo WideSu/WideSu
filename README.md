@@ -8,7 +8,7 @@
   <li><a href="https://github.com/WideSu/Data-Science-Tutorial/tree/master/4-Data%20Science%20Projects/NLP/3-Multi-ligual%20Named%20Entity%20Recognition">Multilingual Named Entity Recognition `NLP` `transformer` `huggingface` `transfer learning`</a></li>
   <li><a href="https://github.com/WideSu/Vanilla-NER/tree/main">Breast Cancer Histological Images classifier via CNN `CV` `Tensorflow keras` `AI-in-healthcare`</a></li>
   <li><a href="https://github.com/WideSu/serenRec">Session-based recommendation for Amazon baby products `recommendation system` `pytorch`</a></li>
-  <li><a href="https://github.com/WideSu/serenRec">Risk Detection for Loan Applicants `machine learning` `data-science-in-finance`</a></li>
+  <li><a href="https://github.com/WideSu/CreditRiskDetection/tree/5f1b8019f84b89557d507fe38fbc0aa45b302a2b">Risk Detection for Loan Applicants `machine learning` `data-science-in-finance`</a></li>
   <li><a href="https://github.com/WideSu/Data-Science-Tutorial/tree/master/4-Data%20Science%20Projects/Tabular%20Data/5-Credit_Risk_Detection">Bank Churn `Sklearn``AI-in-healthcare` </a></li>
   <li><a href="https://widesu.github.io/projects/project-1/">Predictive Maintenance for Diamond Cutter Machines `machine learning` `sensor-data` `time-series`</a></li>
   <li>Many more on and out of Github...</li>
