@@ -1,6 +1,14 @@
 <h1 align="center">Hi, I'm Anni HUANG</h1>
 <h5 align="center">A*STAR Joint Lab Research Scientist(AI in Healthcare)</h5>
-<a href="https://www.linkedin.com/in/annihuang2021/"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/linkedin.png" width="40" /></a>
+<p align="left">
+<!-- <a href="https://twitter.com/@annihuang8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@annihuang8" height="30" width="40" /></a> -->
+<a href="https://linkedin.com/in/annihuang2021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="annihuang2021" height="30" width="40" /></a>
+<!-- <a href="https://kaggle.com/annihuang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="annihuang" height="30" width="40" /></a> -->
+<!-- <a href="https://instagram.com/huanganni380" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="huanganni380" height="30" width="40" /></a> -->
+<a href="https://www.hackerrank.com/annihuang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="annihuang" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/widesu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="widesu" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@annihuang.2021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@annihuang.2021" height="30" width="40" /></a>
+</p>
 <h3 aligin="left"> What do I do? </h3>
 <details>
 <summary>Data Scientist 📊</summary>
