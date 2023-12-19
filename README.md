@@ -11,6 +11,7 @@
   <li><a href="https://github.com/WideSu/CreditRiskDetection/tree/5f1b8019f84b89557d507fe38fbc0aa45b302a2b">Risk Detection for Loan Applicants `machine learning` `data-science-in-finance`</a></li>
   <li><a href="https://github.com/WideSu/Data-Science-Tutorial/tree/master/4-Data%20Science%20Projects/Tabular%20Data/4-Bank_Churn">Bank Churn `R``AI-in-finance` </a></li>
   <li><a href="https://widesu.github.io/projects/project-1/">Predictive Maintenance for Diamond Cutter Machines `machine learning` `sensor-data` `time-series`</a></li>
+  <li>Current work: construct elderlies' living patterns to predict cognitive and physical health for single-living elderlies based on in-home sensor data with [A*STAR Joint Lab](https://site.smu.edu.sg/sajl#research-pillars/human-ai-synergy)</li>
   <li>Many more on and out of Github...</li>
 </ul>
 </details>
@@ -30,7 +31,7 @@
 <summary>Data Engineer 🍥</summary>
   <ul>
     <li><a href="https://widesu.github.io/projects/project-3/">Airline Delay Prediction on GCP `MLops` `GCP` `CICD` `docker`</a></li>
-    <li>AWS dataware house, Django backend system, Realtime dashboard with A*STAR SingHealth during my current job</li>
+    <li>AWS dataware house, Django backend system, Realtime dashboard with [A*STAR Joint Lab]((https://site.smu.edu.sg/sajl#research-pillars/human-ai-synergy)) during my current job</li>
   </ul>
 </details>
 <details>
