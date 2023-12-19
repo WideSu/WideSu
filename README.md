@@ -20,7 +20,7 @@
     <li><a href="https://public.tableau.com/app/profile/huang.anni/vizzes">tableau dashboard</a></li>
     <li><a href="https://github.com/WideSu/VAProject">Ohio City Urban Planning Analysis-Residence Demographics and Prominent Business Districts `R` `Shiny` `Dashboard` `Geographical Data`</a></li>
     <li><a href="https://github.com/WideSu/Stock-recommandation-via-machine-learning-algorithms">Stock Recommendation via Supervised Machine Learning models `sklearn` `machine-learning` `stock-recommendation` `data-science-in-finance`</a></li>
-    <li><a href="https://github.com/WideSu/Data-Science-Tutorial/tree/master/4-Data%20Science%20Projects/Tabular%20Data/1-Titanic">Predict survival on the Titanic</a></li> `Kaggle Challenge`
+    <li><a href="https://github.com/WideSu/Data-Science-Tutorial/tree/master/4-Data%20Science%20Projects/Tabular%20Data/1-Titanic">Predict survival on the Titanic `Kaggle Challenge`</a></li> 
     <li><a href="https://github.com/WideSu/CreditRiskDetection/tree/5f1b8019f84b89557d507fe38fbc0aa45b302a2b">Risk Detection for Loan Applicants `machine learning` `data-science-in-finance`</a></li>
     <li><a href="https://github.com/WideSu/Data-Science-Tutorial/tree/master/4-Data%20Science%20Projects/Tabular%20Data/5-Credit_Risk_Detection">Bank Churn `Sklearn``AI-in-healthcare` </a></li>
     <li>Many more on and out of Github...</li>
