@@ -12,6 +12,7 @@
 
 **Languages and Tools:** 
 ![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=social)&nbsp;&nbsp;
+![R](https://img.shields.io/badge/-R-black?logo=R&style=social)&nbsp;&nbsp;
 ![Java](https://img.shields.io/badge/-Java-black?logo=OpenJDK&style=social)&nbsp;&nbsp;
 ![Go](https://img.shields.io/badge/-Go-black?logo=go&style=social)&nbsp;&nbsp;
 ![Sklearn](https://img.shields.io/badge/-LATEX-black?logo=latex&style=social)&nbsp;&nbsp;
