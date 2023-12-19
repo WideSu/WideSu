@@ -7,6 +7,8 @@
   <li><a href="https://github.com/WideSu/Stock-recommandation-via-machine-learning-algorithms">Stock Recommendation via Supervised Machine Learning models `sklearn` `machine-learning` `stock-recommendation` `data-science-in-finance`</a></li>
   <li><a href="https://github.com/WideSu/Data-Science-Tutorial/tree/master/4-Data%20Science%20Projects/NLP/3-Multi-ligual%20Named%20Entity%20Recognition">Multilingual Named Entity Recognition `NLP` `transformer` `huggingface` `transfer learning`</a></li>
   <li><a href="https://github.com/WideSu/Vanilla-NER/tree/main">Breast Cancer Histological Images classifier via CNN `CV` `Tensorflow keras` `AI-in-healthcare`</a></li>
+  <li><a href="https://github.com/WideSu/serenRec">Session-based recommendation for Amazon baby products `recommendation system` `pytorch`</a></li>
+  <li><a href="https://github.com/WideSu/serenRec">Risk Detection for Loan Applicants `machine learning` `data-science-in-finance`</a></li>
   <li><a href="https://github.com/WideSu/Data-Science-Tutorial/tree/master/4-Data%20Science%20Projects/Tabular%20Data/5-Credit_Risk_Detection">Bank Churn `Sklearn``AI-in-healthcare` </a></li>
   <li><a href="https://widesu.github.io/projects/project-1/">Predictive Maintenance for Diamond Cutter Machines `machine learning` `sensor-data` `time-series`</a></li>
   <li>Many more on and out of Github...</li>
@@ -18,8 +20,7 @@
     <li><a href="https://public.tableau.com/app/profile/huang.anni/vizzes">tableau dashboard</a></li>
     <li><a href="https://github.com/WideSu/VAProject">Ohio City Urban Planning Analysis-Residence Demographics and Prominent Business Districts `R` `Shiny` `Dashboard` `Geographical Data`</a></li>
     <li><a href="https://github.com/WideSu/Stock-recommandation-via-machine-learning-algorithms">Stock Recommendation via Supervised Machine Learning models `sklearn` `machine-learning` `stock-recommendation` `data-science-in-finance`</a></li>
-    <li><a href="https://github.com/ashutosh1919/neurostack">neurostack</a></li>
-    <li><a href="https://github.com/ashutosh1919/Full_Stack_Web_Development_Course">Full-Stack-Web-Development-Course</a></li>
+    <li><a href="https://github.com/WideSu/Data-Science-Tutorial/tree/master/4-Data%20Science%20Projects/Tabular%20Data/1-Titanic">Predict survival on the Titanic</a></li>
     <li>Many more on and out of Github...</li>
   </ul>
 </details>
@@ -27,7 +28,7 @@
 <summary>Data Engineer 🍥</summary>
   <ul>
     <li><a href="https://widesu.github.io/projects/project-3/">Airline Delay Prediction on GCP `MLops` `GCP` `CICD` `docker`</a></li>
-    <li>Many more on and out of Github...</li>
+    <li>AWS dataware house, Django backend system, Realtime dashboard with A*STAR SingHealth during my current job</li>
   </ul>
 </details>
 <details>
