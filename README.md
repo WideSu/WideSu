@@ -37,7 +37,7 @@
 <details>
 <summary>Data Engineer 🍥</summary>
   <ul>
-    <li><a href="https://widesu.github.io/projects/project-3/">Airline Delay Prediction on GCP `MLops` `GCP` `CICD` `docker`</a></li>
+    <li><a href="https://widesu.github.io/projects/project-3/">Airline Delay Prediction on GCP</a></li>
     <li><a href="https://site.smu.edu.sg/sajl#research-pillars/human-ai-synergy">AWS dataware house, Django backend system, Realtime dashboard with A*STAR Joint Lab during my current job</li>
   </ul>
 </details>
