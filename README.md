@@ -28,7 +28,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=social)&nbsp;&nbsp;
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-black?logo=Docker&style=social)&nbsp;&nbsp;
-![apacheairflow](https://img.shields.io/badge/-apacheairflow-black?logo=apacheairflow&style=social)&nbsp;&nbsp;
+![Apache Airflow](https://img.shields.io/badge/-Apache-Airflow-black?logo=apacheairflow&style=social)&nbsp;&nbsp;
 ![LATEX](https://img.shields.io/badge/-LATEX-black?logo=latex&style=social)&nbsp;&nbsp;
 
 <h3 aligin="left"> What do I do? </h3>
