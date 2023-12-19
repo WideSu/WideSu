@@ -15,7 +15,12 @@
 ![R](https://img.shields.io/badge/-R-black?logo=R&style=social)&nbsp;&nbsp;
 ![Java](https://img.shields.io/badge/-Java-black?logo=OpenJDK&style=social)&nbsp;&nbsp;
 ![Go](https://img.shields.io/badge/-Go-black?logo=go&style=social)&nbsp;&nbsp;
-![Sklearn](https://img.shields.io/badge/-LATEX-black?logo=latex&style=social)&nbsp;&nbsp;
+![Sklearn](https://img.shields.io/badge/-Sklearn-black?logo=scikitlearn&style=social)&nbsp;&nbsp;
+![PyTorch](https://img.shields.io/badge/-PyTorch-black?logo=pytorch&style=social)&nbsp;&nbsp;
+![Tensorflow](https://img.shields.io/badge/-Tensorflow-black?logo=tensorflow&style=social)&nbsp;&nbsp;
+![pandas](https://img.shields.io/badge/-Pandas-black?logo=pandas&style=social)&nbsp;&nbsp;
+![numpy](https://img.shields.io/badge/-Numpy-black?logo=numpy&style=social)&nbsp;&nbsp;
+![scipy](https://img.shields.io/badge/-SciPy-black?logo=scipy&style=social)&nbsp;&nbsp;
 ![Django](https://img.shields.io/badge/-Django%20Framework-black?logo=Django&style=social)&nbsp;&nbsp;
 ![Spring](https://img.shields.io/badge/-Spring%20Framework-black?logo=spring&style=social)&nbsp;&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=social)&nbsp;&nbsp;
@@ -33,6 +38,8 @@
 ![MLflow](https://img.shields.io/badge/-MLflow-black?logo=mlflow&style=social)&nbsp;&nbsp;
 ![informatica](https://img.shields.io/badge/-informatica-black?logo=informatica&style=social)&nbsp;&nbsp;
 ![amazonrds](https://img.shields.io/badge/-AmazonRDS-black?logo=amazonrds&style=social)&nbsp;&nbsp;
+![netlify](https://img.shields.io/badge/-Netlify-black?logo=netlify&style=social)&nbsp;&nbsp;
+![yarn](https://img.shields.io/badge/-Yarn-black?logo=yarn&style=social)&nbsp;&nbsp;
 ![LATEX](https://img.shields.io/badge/-LATEX-black?logo=latex&style=social)&nbsp;&nbsp;
 
 <h3 aligin="left"> What do I do? </h3>
