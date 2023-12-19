@@ -23,14 +23,12 @@
   </ul>
 </details>
 <details>
-<details>
 <summary>Data Engineer 🍥</summary>
   <ul>
     <li><a href="https://widesu.github.io/projects/project-3/">Airline Delay Prediction on GCP `MLops` `GCP` `CICD` `docker`</a></li>
     <li>Many more on and out of Github...</li>
   </ul>
 </details>
-<details>
 <details>
 <summary>Open Source Projects 🍥</summary>
   <ul>
