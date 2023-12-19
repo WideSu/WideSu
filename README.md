@@ -1,5 +1,6 @@
 <h1 align="center">Hi, I'm Anni HUANG</h1>
 <h5 align="center">A*STAR Joint Lab Research Scientist(AI in Healthcare)</h5>
+<a href="https://www.linkedin.com/in/annihuang2021/"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/linkedin.png" width="40" /></a>
 <h3 aligin="left"> What do I do? </h3>
 <details>
 <summary>Data Scientist 📊</summary>
