@@ -12,7 +12,6 @@
   <li><a href="https://github.com/WideSu/Data-Science-Tutorial/tree/master/4-Data%20Science%20Projects/Tabular%20Data/4-Bank_Churn">Bank Churn `R``AI-in-finance` </a></li>
   <li><a href="https://widesu.github.io/projects/project-1/">Predictive Maintenance for Diamond Cutter Machines `machine learning` `sensor-data` `time-series`</a></li>
   <li>Current work: construct elderlies' living patterns to predict cognitive and physical health for single-living elderlies based on in-home sensor data with [A*STAR Joint Lab](https://site.smu.edu.sg/sajl#research-pillars/human-ai-synergy)</li>
-  <li>Many more on and out of Github...</li>
 </ul>
 </details>
 <details>
