@@ -90,7 +90,9 @@
  - 2018
    - Predictive Maintenance using Machine Learning Java EE Website `Java` `SpringBoot` `full-stack` [(Website)](https://widesu.github.io/projects/project-2/)
      - SpringBoot, Bootstrap, Javascript, Html, MySQL, CSS
+
 <h3 align="left">Languages and Tools:</h3>
+
 **Languages and Tools:** 
 ![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=social)&nbsp;&nbsp;
 ![Java](https://img.shields.io/badge/-Java-black?logo=java&style=social)&nbsp;&nbsp;
