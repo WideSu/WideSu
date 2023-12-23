@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Anni HUANG</h1>
 <h5 align="center">A*STAR Joint Lab Research Scientist(AI in Healthcare)</h5>
 
-![Visitor Count](https://profile-counter.glitch.me/WideSu/count.svg)
+![](https://komarev.com/ghpvc/?username=WideSu&style=flat-square)
 
 <p align="center">
 <!-- <a href="https://twitter.com/@annihuang8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@annihuang8" height="30" width="40" /></a> -->
