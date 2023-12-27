@@ -93,8 +93,6 @@
 <h3 align="left">Projects:</h3>
 
 - 2023
-  - Data Science Tutorial `ml` `dl` `projects` `certificate` `algo`[(Github)](https://github.com/WideSu/Data-Science-Tutorial)
-
   - SMU-A* STAR Joint Lab project `explainable machine learning` `sensor-data` `time-series` `AI-in-healthcare`[(Website)](https://site.smu.edu.sg/sajl#research-pillars/human-ai-synergy)
     - AWS, XAI, Django, Dashboard, Linux, IRB
 
