@@ -76,7 +76,7 @@
 <details>
 <summary>Data Engineer 🍥</summary>
   <ul>
-    <li><a href="https://widesu.github.io/projects/project-3/">Airline Delay Prediction on GCP</a></li>
+    <li>Airline Delay Prediction</li>
     <li><a href="https://site.smu.edu.sg/sajl#research-pillars/human-ai-synergy">Current research scientist job with A*STAR Joint Lab</li>
   </ul>
 </details>
@@ -102,7 +102,7 @@
 
   - 2022 Ohio City Urban Planning Analysis-Residence Demographics and Prominent Business Districts `R` `Shiny` `Dashboard` `Geographical Data`[(GitHub Repo)](https://github.com/WideSu/VAProject)
   
-  - Airline Delay Prediction on GCP `MLops` `GCP` `CICD` `docker`[(Website)](https://widesu.github.io/projects/project-3/)
+  - Airline Delay Prediction `MLops` `GCP` `CICD` `docker`
   - Multilingual Named Entity Recognition `NLP` `transformer` `huggingface` `transfer learning`[(GitHub Repo)](https://github.com/WideSu/Vanilla-NER/tree/main) 
   
   - Session-based recommendation for Amazon baby products `recommendation system` `pytorch`[(GitHub Repo)](https://github.com/WideSu/serenRec)
