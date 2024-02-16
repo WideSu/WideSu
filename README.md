@@ -47,7 +47,7 @@
 ![netlify](https://img.shields.io/badge/-Netlify-black?logo=netlify&style=social)&nbsp;&nbsp;
 ![yarn](https://img.shields.io/badge/-Yarn-black?logo=yarn&style=social)&nbsp;&nbsp;
 ![LATEX](https://img.shields.io/badge/-LATEX-black?logo=latex&style=social)&nbsp;&nbsp;
-
+/*
 <h3 aligin="left"> What do I do? </h3>
 <details>
 <summary>Data Scientist 📊</summary>
@@ -89,6 +89,8 @@
   </ul>
 </details>
 
+
+*/
 
 <h3 align="left">Projects:</h3>
 
