@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Anni HUANG</h1>
-<h5 align="center">A*STAR Joint Lab Research Engineer(AI in Healthcare)</h5>
+<h5 align="center">SDE II(Compiler&Low-level Language Team@Rockwell Automation)</h5>
 
 ![](https://komarev.com/ghpvc/?username=WideSu&style=flat-square)
 
