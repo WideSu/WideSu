@@ -17,9 +17,11 @@
 </p>
 
 <h3 align="left">Projects:</h3>
+
 - 2024
     - Rockwell Automation, C++ engineer at compiler and low-level language team, build IDE. 
     - Tech stack: C++, assembly, LLVM, flex, yacc.
+
 - 2023
   - SMU-A* STAR Joint Lab project `explainable machine learning` `sensor-data` `time-series` `AI-in-healthcare`[(Website)](https://site.smu.edu.sg/sajl#research-pillars/human-ai-synergy)
     - AWS, XAI, Django, Dashboard, Linux, IRB
