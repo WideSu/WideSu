@@ -19,7 +19,7 @@
 <h3 align="left">Projects:</h3>
 
 - 2024
-    - Rockwell Automation, C++ engineer at compiler and low-level language team, build IDE. 
+    - Work in [Rockwell Automation](https://www.rockwellautomation.com/en-us.html) as a C++ engineer at compiler and low-level language team, build IDE. 
     - Tech stack: C++, assembly, LLVM, flex, yacc.
 
 - 2023
