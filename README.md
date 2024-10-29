@@ -20,7 +20,7 @@
 
 - 2024
     - Work in [Rockwell Automation](https://www.rockwellautomation.com/en-us.html) as a C# backend engineer and also works on language server protocal. 
-    - Tech stack: C++, assembly, LLVM, flex, yacc.
+    - Tech stack: C#, TypeScript.
 
 - 2023
   - SMU-A* STAR Joint Lab project `explainable machine learning` `sensor-data` `time-series` `AI-in-healthcare`[(Website)](https://site.smu.edu.sg/sajl#research-pillars/human-ai-synergy)
