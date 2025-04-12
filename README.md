@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Anni HUANG</h1>
-<h5 align="center">SDE II(Compiler&Low-level Language Team@Rockwell Automation)</h5>
+<h5 align="center">SDE II @Rockwell Automation</h5>
 
 ![](https://komarev.com/ghpvc/?username=WideSu&style=flat-square)
 
@@ -18,6 +18,8 @@
 
 <h3 align="left">Projects:</h3>
 
+- 2025
+    - Risk System [`FastAPI`](https://github.com/topics/fastapi) [`PostGreSQL`](https://github.com/topics/postgresql) [`Yahoo-Finance`](https://github.com/topics/yahoo-finance) [`tortoise`](https://github.com/topics/tortoise) [`real-time-analytics`](https://github.com/topics/real-time-analytics)[(GitHub Repo)](https://github.com/WideSu/risk-system-backend)
 - 2024
     - Work in [Rockwell Automation](https://www.rockwellautomation.com/en-us.html) as a C# backend engineer and also works on language server protocal. 
     - Tech stack: C#, TypeScript.
