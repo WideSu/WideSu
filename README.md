@@ -21,7 +21,7 @@
 - 2025
     - Risk System [`FastAPI`](https://github.com/topics/fastapi) [`PostGreSQL`](https://github.com/topics/postgresql) [`Yahoo-Finance`](https://github.com/topics/yahoo-finance) [`tortoise`](https://github.com/topics/tortoise) [`real-time-analytics`](https://github.com/topics/real-time-analytics)[(GitHub Repo)](https://github.com/WideSu/risk-system-backend)
 - 2024
-    - Work in [Rockwell Automation](https://www.rockwellautomation.com/en-us.html) as a C# backend engineer and also works on language server protocal. 
+    - Work in [Rockwell Automation](https://www.rockwellautomation.com/en-us.html) on [language server protocal](https://microsoft.github.io/language-server-protocol/). 
     - Tech stack: C#, TypeScript.
 
 - 2023
