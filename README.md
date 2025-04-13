@@ -50,9 +50,9 @@
 
 - 2019
 
-   - Lecture Note Assistant `audio-to-text` `auto-translation` `multi-language translation`[(GitHub Repo)](https://github.com/WideSu/lectureNoteAssistant)
+   - Lecture Note Assistant `golang` `audio-to-text` `auto-translation` `multi-language translation`[(GitHub Repo)](https://github.com/WideSu/lectureNoteAssistant)
 
-   - Breast Cancer Histological Images classifier via CNN `CV` `Tensorflow keras` `AI-in-healthcare` [(GitHub Repo)](https://github.com/WideSu/CancerDaignosisApp)
+   - Breast Cancer Histological Images classifier via CNN `python` `CV` `Tensorflow keras` `AI-in-healthcare` [(GitHub Repo)](https://github.com/WideSu/CancerDaignosisApp)
 
    - Stock Recommendation via Supervised Machine Learning models `sklearn` `machine-learning` `stock-recommendation` `data-science-in-finance` [(GitHub Repo)](https://github.com/WideSu/Stock-recommandation-via-machine-learning-algorithms)
 
