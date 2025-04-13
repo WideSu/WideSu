@@ -58,5 +58,5 @@
 
    - 2019 Huawei Compiler Design Contest, Compiler for an C- language `compiler` `linux` `Docker` `CICD` `C`[(GitHub Repo)](https://github.com/WideSu/Compiler)
  - 2018
-   - Predictive Maintenance using Machine Learning Java EE Website `Java` `SpringBoot` `full-stack` [(Website)](https://widesu.github.io/projects/project-2/)
+   - Predictive Maintenance using Machine Learning Java EE Website `Java` `SpringBoot` `full-stack` [Confidential]
      - SpringBoot, Bootstrap, Javascript, Html, MySQL, CSS
