@@ -27,7 +27,7 @@
 - 2023
   - SMU-A* STAR Joint Lab project `explainable machine learning` `sensor-data` `time-series` `AI-in-healthcare`[(Website)](https://site.smu.edu.sg/sajl#research-pillars/human-ai-synergy)
     - AWS, XAI, Django, Dashboard, Linux, IRB
-    - Our paper got accepeted by IEEE CAI 2024 coneference. The conference will be hold in June 2024 at MBS.
+    - Our paper got accepeted by IEEE CAI 2024 coneference. [(Paper Link)](https://ieeexplore.ieee.org/document/10605274)
 
 - 2022
   - Personal Website[(GitHub)](https://github.com/WideSu/WideSu.github.io)[(Website)](https://widesu.github.io/)
