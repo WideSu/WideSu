@@ -30,18 +30,12 @@
     - Our paper got accepeted by IEEE CAI 2024 coneference. [(Paper Link)](https://ieeexplore.ieee.org/document/10605274)
 
 - 2022
-  - Personal Website[(GitHub)](https://github.com/WideSu/WideSu.github.io)[(Website)](https://widesu.github.io/)
   - Tableau Dashboard `Dashboard` [(Tableau Public)](https://public.tableau.com/app/profile/huang.anni/vizzes)
-
   - 2022 Ohio City Urban Planning Analysis-Residence Demographics and Prominent Business Districts `R` `Shiny` `Dashboard` `Geographical Data`[(GitHub Repo)](https://github.com/WideSu/VAProject)
-  
   - Airline Delay Prediction `MLops` `GCP` `CICD` `docker`
   - Multilingual Named Entity Recognition `NLP` `transformer` `huggingface` `transfer learning`[(GitHub Repo)](https://github.com/WideSu/Vanilla-NER/tree/main) 
-  
   - Session-based recommendation for Amazon baby products `recommendation system` `pytorch`[(GitHub Repo)](https://github.com/WideSu/serenRec)
-  
   - Predictive Maintenance for Diamond Cutter Machines `machine learning` `sensor-data` `time-series`
-  
   - Risk Detection for Loan Applicants `machine learning` `data-science-in-finance` [(GitHub Repo)](https://github.com/WideSu/CreditRiskDetection)
 
 - 2021 
