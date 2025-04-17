@@ -39,17 +39,12 @@
   - Risk Detection for Loan Applicants `machine learning` `data-science-in-finance` [(GitHub Repo)](https://github.com/WideSu/CreditRiskDetection)
 
 - 2021 
-
   - International University Time Tabling using CP and MIP `optimisation` `mixed interger programming` `constraint programming` [(GitHub Repo)](https://github.com/WideSu/CS606_ITC) 
 
 - 2019
-
    - Lecture Note Assistant `golang` `audio-to-text` `auto-translation` `multi-language translation`[(GitHub Repo)](https://github.com/WideSu/lectureNoteAssistant)
-
    - Breast Cancer Histological Images classifier via CNN `python` `CV` `Tensorflow keras` `AI-in-healthcare` [(GitHub Repo)](https://github.com/WideSu/CancerDaignosisApp)
-
    - Stock Recommendation via Supervised Machine Learning models `sklearn` `machine-learning` `stock-recommendation` `data-science-in-finance` [(GitHub Repo)](https://github.com/WideSu/Stock-recommandation-via-machine-learning-algorithms)
-
    - 2019 Huawei Compiler Design Contest, Compiler for an C- language `compiler` `linux` `Docker` `CICD` `C`[(GitHub Repo)](https://github.com/WideSu/Compiler)
  - 2018
    - Predictive Maintenance using Machine Learning Java EE Website `Java` `SpringBoot` `full-stack` [Confidential]
