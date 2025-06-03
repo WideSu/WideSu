@@ -19,6 +19,7 @@
 <h3 align="left">Projects:</h3>
 
 - 2025
+    - In-memory Banking System Backend (thread-safe transfer) [`FastAPI`](https://github.com/topics/fastapi)[(GitHub Repo)](https://github.com/WideSu/banking_system_backend)
     - Risk System (real time margin status monitoring) [`FastAPI`](https://github.com/topics/fastapi) [`PostGreSQL`](https://github.com/topics/postgresql) [`Yahoo-Finance`](https://github.com/topics/yahoo-finance) [`tortoise`](https://github.com/topics/tortoise) [`real-time-analytics`](https://github.com/topics/real-time-analytics)[(GitHub Repo)](https://github.com/WideSu/risk-system-backend)
 - [2024 - present]
     - Work in [Rockwell Automation](https://www.rockwellautomation.com/en-us.html) on [language server protocal](https://microsoft.github.io/language-server-protocol/). 
