@@ -19,13 +19,9 @@
 <h3 align="left">Projects:</h3>
 
 - 2025
+    - Movie Booking System
     - In-memory Banking System Backend ([`thread-safe`](https://github.com/topics/thread-safe) transfer) [`FastAPI`](https://github.com/topics/fastapi)[(GitHub Repo)](https://github.com/WideSu/banking_system_backend)
     - Risk System (real time margin status monitoring) [`FastAPI`](https://github.com/topics/fastapi) [`PostGreSQL`](https://github.com/topics/postgresql) [`Yahoo-Finance`](https://github.com/topics/yahoo-finance) [`tortoise`](https://github.com/topics/tortoise) [`real-time-analytics`](https://github.com/topics/real-time-analytics)[(GitHub Repo)](https://github.com/WideSu/risk-system-backend)
-
-- 2023
-  - SMU-A* STAR Joint Lab project `explainable machine learning` `sensor-data` `time-series` `AI-in-healthcare`[(Website)](https://site.smu.edu.sg/sajl#research-pillars/human-ai-synergy)
-    - AWS, XAI, Django, Dashboard, Linux, IRB
-    - Our paper got accepeted by IEEE CAI 2024 coneference. [(Paper Link)](https://ieeexplore.ieee.org/document/10605274)
 
 - 2022
   - Tableau Dashboard `Dashboard` [(Tableau Public)](https://public.tableau.com/app/profile/huang.anni/vizzes)
