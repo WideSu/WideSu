@@ -21,9 +21,6 @@
 - 2025
     - In-memory Banking System Backend ([`thread-safe`](https://github.com/topics/thread-safe) transfer) [`FastAPI`](https://github.com/topics/fastapi)[(GitHub Repo)](https://github.com/WideSu/banking_system_backend)
     - Risk System (real time margin status monitoring) [`FastAPI`](https://github.com/topics/fastapi) [`PostGreSQL`](https://github.com/topics/postgresql) [`Yahoo-Finance`](https://github.com/topics/yahoo-finance) [`tortoise`](https://github.com/topics/tortoise) [`real-time-analytics`](https://github.com/topics/real-time-analytics)[(GitHub Repo)](https://github.com/WideSu/risk-system-backend)
-- [2024 - present]
-    - Work in [Rockwell Automation](https://www.rockwellautomation.com/en-us.html) on [language server protocal](https://microsoft.github.io/language-server-protocol/). 
-    - Tech stack: C#, TypeScript.
 
 - 2023
   - SMU-A* STAR Joint Lab project `explainable machine learning` `sensor-data` `time-series` `AI-in-healthcare`[(Website)](https://site.smu.edu.sg/sajl#research-pillars/human-ai-synergy)
