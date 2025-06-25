@@ -40,6 +40,3 @@
    - Breast Cancer Histological Images classifier via CNN `python` `CV` `Tensorflow keras` `AI-in-healthcare` [(GitHub Repo)](https://github.com/WideSu/CancerDaignosisApp)
    - Stock Recommendation via Supervised Machine Learning models `sklearn` `machine-learning` `stock-recommendation` `data-science-in-finance` [(GitHub Repo)](https://github.com/WideSu/Stock-recommandation-via-machine-learning-algorithms)
    - 2019 Huawei Compiler Design Contest, Compiler for an C- language `compiler` `linux` `Docker` `CICD` `C`[(GitHub Repo)](https://github.com/WideSu/Compiler)
- - 2018
-   - Predictive Maintenance using Machine Learning Java EE Website `Java` `SpringBoot` `full-stack` [Confidential]
-     - SpringBoot, Bootstrap, Javascript, Html, MySQL, CSS
