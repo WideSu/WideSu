@@ -16,7 +16,7 @@
     <img width="100%" src="https://github.com/WideSu/CreditRiskDetection/assets/44923423/f72d9c19-1997-4839-a12b-19faf971199e">
 </p>
 
-<h3 align="left">Projects:</h3>
+<h3 align="left">Open Source Projects:</h3>
 
 - 2025
     - Cinema seating booking system [(GitHub Repo)](https://github.com/WideSu/Cinema)
