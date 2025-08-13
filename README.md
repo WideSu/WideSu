@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Anni HUANG</h1>
-<h5 align="center">LLM Training Operation Specialist @ ByteDance</h5>
+<!-- <h5 align="center">LLM Training Operation Specialist @ ByteDance</h5> -->
 
 ![](https://komarev.com/ghpvc/?username=WideSu&style=flat-square)
 
