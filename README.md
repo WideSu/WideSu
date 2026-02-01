@@ -12,9 +12,9 @@
 <a href="https://www.leetcode.com/widesu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="widesu" height="30" width="40" /></a>
 <!-- <a href="https://www.hackerearth.com/@annihuang.2021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@annihuang.2021" height="30" width="40" /></a> -->
 </p>
-<p align="center" width="100%">
+<!-- <p align="center" width="100%">
     <img width="100%" src="https://github.com/WideSu/CreditRiskDetection/assets/44923423/f72d9c19-1997-4839-a12b-19faf971199e">
-</p>
+</p> -->
 
 <h3 align="left">Open Source Projects:</h3>
 
