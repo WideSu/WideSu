@@ -20,8 +20,8 @@
 
 - 2025
     - Cinema seat booking system [(GitHub Repo)](https://github.com/WideSu/Cinema)
+    - Risk System (margin status monitoring)-extension of **In-memory Banking System Backend** project with added **margin trading** feature [`FastAPI`](https://github.com/topics/fastapi) [`PostGreSQL`](https://github.com/topics/postgresql) [`Yahoo-Finance`](https://github.com/topics/yahoo-finance) [`tortoise`](https://github.com/topics/tortoise) [`real-time-analytics`](https://github.com/topics/real-time-analytics)[(GitHub Repo)](https://github.com/WideSu/risk-system-backend)
     - In-memory Banking System Backend ([`thread-safe`](https://github.com/topics/thread-safe) transfer) [`FastAPI`](https://github.com/topics/fastapi)[(GitHub Repo)](https://github.com/WideSu/banking_system_backend)
-    - Risk System (real time margin status monitoring) [`FastAPI`](https://github.com/topics/fastapi) [`PostGreSQL`](https://github.com/topics/postgresql) [`Yahoo-Finance`](https://github.com/topics/yahoo-finance) [`tortoise`](https://github.com/topics/tortoise) [`real-time-analytics`](https://github.com/topics/real-time-analytics)[(GitHub Repo)](https://github.com/WideSu/risk-system-backend)
 
 - 2022
   - Tableau Dashboard `Dashboard` [(Tableau Public)](https://public.tableau.com/app/profile/huang.anni/vizzes)
