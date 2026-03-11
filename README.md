@@ -13,6 +13,21 @@ I'm an **AI Developer** who builds tools to enhance developer's coding experienc
 - Developing risk management tools for margin traders
 - Bridging the gap between AI research and practical trading applications
 
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/annihuang2021">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.leetcode.com/widesu">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://public.tableau.com/app/profile/huang.anni/vizzes">
+    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  </a>
+</p>
+
+
 ## 💼 Featured Projects
 
 ### 📈 Trading & Finance
