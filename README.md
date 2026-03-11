@@ -1,42 +1,134 @@
-<h1 align="center">Hi, I'm Anni HUANG</h1>
-<!-- <h5 align="center">LLM Training Operation Specialist @ ByteDance</h5> -->
+# 👋 Hi, I'm Anni HUANG
 
-![](https://komarev.com/ghpvc/?username=WideSu&style=flat-square)
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00C7B7&center=true&vCenter=true&width=435&lines=AI+Developer;Quant+Trader;ML+Engineer" alt="Typing SVG" />
+</div>
 
 <p align="center">
-<!-- <a href="https://twitter.com/@annihuang8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@annihuang8" height="30" width="40" /></a> -->
-<a href="https://linkedin.com/in/annihuang2021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="annihuang2021" height="30" width="40" /></a>
-<!-- <a href="https://kaggle.com/annihuang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="annihuang" height="30" width="40" /></a> -->
-<!-- <a href="https://instagram.com/huanganni380" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="huanganni380" height="30" width="40" /></a> -->
-<!-- <a href="https://www.hackerrank.com/annihuang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="annihuang" height="30" width="40" /></a> -->
-<a href="https://www.leetcode.com/widesu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="widesu" height="30" width="40" /></a>
-<!-- <a href="https://www.hackerearth.com/@annihuang.2021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@annihuang.2021" height="30" width="40" /></a> -->
+  <img src="https://komarev.com/ghpvc/?username=WideSu&style=for-the-badge&color=00c7b7" alt="Profile views" />
 </p>
-<!-- <p align="center" width="100%">
-    <img width="100%" src="https://github.com/WideSu/CreditRiskDetection/assets/44923423/f72d9c19-1997-4839-a12b-19faf971199e">
-</p> -->
 
-<h3 align="left">Open Source Projects:</h3>
+---
 
-- 2025
-    - Cinema seat booking system [(GitHub Repo)](https://github.com/WideSu/Cinema)
-    - Risk System (margin status monitoring)-extension of **In-memory Banking System Backend** project with added **margin trading** feature [`FastAPI`](https://github.com/topics/fastapi) [`PostGreSQL`](https://github.com/topics/postgresql) [`Yahoo-Finance`](https://github.com/topics/yahoo-finance) [`tortoise`](https://github.com/topics/tortoise) [`real-time-analytics`](https://github.com/topics/real-time-analytics)[(GitHub Repo)](https://github.com/WideSu/risk-system-backend)
-    - In-memory Banking System Backend ([`thread-safe`](https://github.com/topics/thread-safe) transfer) [`FastAPI`](https://github.com/topics/fastapi)[(GitHub Repo)](https://github.com/WideSu/banking_system_backend)
+## 🚀 About Me
 
-- 2022
-  - Tableau Dashboard `Dashboard` [(Tableau Public)](https://public.tableau.com/app/profile/huang.anni/vizzes)
-  - 2022 Ohio City Urban Planning Analysis-Residence Demographics and Prominent Business Districts `R` `Shiny` `Dashboard` `Geographical Data`[(GitHub Repo)](https://github.com/WideSu/VAProject)
-  - Airline Delay Prediction `MLops` `GCP` `CICD` `docker`
-  - Multilingual Named Entity Recognition `NLP` `transformer` `huggingface` `transfer learning`[(GitHub Repo)](https://github.com/WideSu/Vanilla-NER/tree/main) 
-  - Session-based recommendation for Amazon baby products `recommendation system` `pytorch`[(GitHub Repo)](https://github.com/WideSu/serenRec)
-  - Predictive Maintenance for Diamond Cutter Machines `machine learning` `sensor-data` `time-series`
-  - Risk Detection for Loan Applicants `machine learning` `data-science-in-finance` [(GitHub Repo)](https://github.com/WideSu/CreditRiskDetection)
+I'm an AI Developer with a passion for **financial technology** and **machine learning**. When I'm not coding, I'm actively trading on **IBKR**—balancing **intraday strategies** with **long-term investments**. My portfolio has consistently delivered **~28% annual returns**, and I'm channeling this experience into building smarter trading tools.
 
-- 2021 
-  - International University Time Tabling using CP and MIP `optimisation` `mixed interger programming` `constraint programming` [(GitHub Repo)](https://github.com/WideSu/CS606_ITC) 
+### 🎯 Current Focus
+- Building production-ready trading systems
+- Developing risk management tools for margin traders
+- Bridging the gap between ML research and practical trading applications
 
-- 2019
-   - Lecture Note Assistant `golang` `audio-to-text` `auto-translation` `multi-language translation`[(GitHub Repo)](https://github.com/WideSu/lectureNoteAssistant)
-   - Breast Cancer Histological Images classifier via CNN `python` `CV` `Tensorflow keras` `AI-in-healthcare` [(GitHub Repo)](https://github.com/WideSu/CancerDaignosisApp)
-   - Stock Recommendation via Supervised Machine Learning models `sklearn` `machine-learning` `stock-recommendation` `data-science-in-finance` [(GitHub Repo)](https://github.com/WideSu/Stock-recommandation-via-machine-learning-algorithms)
-   - 2019 Huawei Compiler Design Contest, Compiler for an C- language `compiler` `linux` `Docker` `CICD` `C`[(GitHub Repo)](https://github.com/WideSu/Compiler)
+---
+
+## 💼 Featured Projects
+
+### 📈 Trading & Finance
+- **Risk System** *(2025)* — Real-time margin status monitoring for margin traders [`FastAPI`](https://github.com/topics/fastapi) [`PostgreSQL`](https://github.com/topics/postgresql) [`Yahoo-Finance`](https://github.com/topics/yahoo-finance)  
+  *Extension of banking system with real-time risk analytics*  
+  [![GitHub Repo](https://img.shields.io/badge/GitHub-View_Repo-00c7b7?style=flat-square&logo=github)](https://github.com/WideSu/risk-system-backend)
+
+- **Stock Recommendation System** *(2019)* — ML models that consistently outperformed market benchmarks [`sklearn`](https://github.com/topics/scikit-learn) [`pandas`](https://github.com/topics/pandas)  
+  *Achieved monthly returns exceeding S&P 500*  
+  [![GitHub Repo](https://img.shields.io/badge/GitHub-View_Repo-00c7b7?style=flat-square&logo=github)](https://github.com/WideSu/Stock-recommandation-via-machine-learning-algorithms)
+
+- **Banking System Backend** *(2025)* — Thread-safe in-memory banking system [`FastAPI`](https://github.com/topics/fastapi) [`thread-safe`](https://github.com/topics/thread-safe)  
+  [![GitHub Repo](https://img.shields.io/badge/GitHub-View_Repo-00c7b7?style=flat-square&logo=github)](https://github.com/WideSu/banking_system_backend)
+
+### 🤖 Machine Learning & AI
+- **Session-based Recommendation System** *(2022)* — For Amazon baby products [`PyTorch`](https://github.com/topics/pytorch) [`recommendation-system`](https://github.com/topics/recommendation-system)  
+  [![GitHub Repo](https://img.shields.io/badge/GitHub-View_Repo-00c7b7?style=flat-square&logo=github)](https://github.com/WideSu/serenRec)
+
+- **Multilingual Named Entity Recognition** *(2022)* — Transfer learning for low-resource languages [`transformers`](https://github.com/topics/transformers) [`huggingface`](https://github.com/topics/huggingface)  
+  [![GitHub Repo](https://img.shields.io/badge/GitHub-View_Repo-00c7b7?style=flat-square&logo=github)](https://github.com/WideSu/Vanilla-NER)
+
+- **Credit Risk Detection** *(2022)* — ML models for loan applicant risk assessment [`data-science-in-finance`](https://github.com/topics/data-science-in-finance)  
+  [![GitHub Repo](https://img.shields.io/badge/GitHub-View_Repo-00c7b7?style=flat-square&logo=github)](https://github.com/WideSu/CreditRiskDetection)
+
+- **Breast Cancer Detection** *(2019)* — CNN-based histological image classifier [`TensorFlow`](https://github.com/topics/tensorflow) [`AI-in-healthcare`](https://github.com/topics/ai-in-healthcare)  
+  [![GitHub Repo](https://img.shields.io/badge/GitHub-View_Repo-00c7b7?style=flat-square&logo=github)](https://github.com/WideSu/CancerDaignosisApp)
+
+- **Lecture Note Assistant** *(2019)* — Real-time audio transcription & translation [`Go`](https://github.com/topics/go)  
+[![GitHub Repo](https://img.shields.io/badge/GitHub-View_Repo-00c7b7?style=flat-square&logo=github)](https://github.com/WideSu/lectureNoteAssistant)
+
+### 🛠️ Systems & Infrastructure
+
+- **Compiler Design** *(2019)* — C- language compiler for Huawei Competition [`C`](https://github.com/topics/c) [`compiler`](https://github.com/topics/compiler)  
+  [![GitHub Repo](https://img.shields.io/badge/GitHub-View_Repo-00c7b7?style=flat-square&logo=github)](https://github.com/WideSu/Compiler)
+
+## Just for Fun
+- **🎬 Smart Cinema Seat Recommender** *(2025)* — Intelligent group seating optimization system that finds the optimal seats based on cinema geometry and group preferences
+  [![GitHub Repo](https://img.shields.io/badge/GitHub-View_Repo-00c7b7?style=flat-square&logo=github)](https://github.com/WideSu/Cinema)
+
+---
+
+## 📊 Trading Performance
+
+```python
+# My trading philosophy
+def trading_strategy():
+    return {
+        'timeframes': ['intraday', 'long-term'],
+        'platform': 'IBKR',
+        'annual_return': '28%',
+        'edge': 'ML-powered insights',
+        'risk_management': 'Always have a stop-loss 📉'
+    }
+```
+
+---
+
+## 🛠️ Tech Stack
+
+```yaml
+languages:
+  - Python
+  - SQL
+  
+ml_frameworks:
+  - PyTorch
+  - Scikit-learn
+  
+trading_tools:
+  - IBKR API
+  - Yahoo Finance
+  
+infrastructure:
+  - FastAPI
+  - PostgreSQL
+  - Docker
+  - GCP
+```
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WideSu&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00c7b7&icon_color=00c7b7" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WideSu&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00c7b7" />
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/annihuang2021">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.leetcode.com/widesu">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://public.tableau.com/app/profile/huang.anni/vizzes">
+    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+  <i>⚡ Fun fact: My ML models help me trade, and my trading funds my ML compute budget ⚡</i>
+  
+  ![Snake animation](https://github.com/WideSu/WideSu/blob/output/github-contribution-grid-snake.svg)
+</div>
