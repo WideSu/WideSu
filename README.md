@@ -1,18 +1,15 @@
 # 👋 Hi, I'm Anni HUANG
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+I'm an AI Developer who builds tools to enhance developer's coding experience. When I'm not coding, I'm actively trading on **IBKR**—balancing **intraday strategies** with **long-term investments**. My portfolio has consistently delivered **~28% annual returns**, and I'm channeling this experience into building practical trading tools for retail investors.
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00C7B7&center=true&vCenter=true&width=435&lines=AI+Developer;Trading+Tool+Builder" alt="Typing SVG" />
-</div>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=WideSu&style=for-the-badge&color=00c7b7" alt="Profile views" />
-</p>
-
-## 🚀 About Me
-
-I'm an AI Developer who builds tools for **smarter trading**. When I'm not coding, I'm actively trading on **IBKR**—balancing **intraday strategies** with **long-term investments**. My portfolio has consistently delivered **~28% annual returns**, and I'm channeling this experience into building practical trading tools for retail investors.
-
-### 🎯 Current Focus
+### 🎯 Side Projects that I am working on
 - Building production-ready trading systems
 - Developing risk management tools for margin traders
 - Bridging the gap between AI research and practical trading applications
@@ -68,53 +65,12 @@ I'm an AI Developer who builds tools for **smarter trading**. When I'm not codin
   *Uses spatial algorithms to solve the classic "group seating problem"—finding contiguous seats that are centered and near the back*  
   [![GitHub Repo](https://img.shields.io/badge/GitHub-View_Repo-00c7b7?style=flat-square&logo=github)](https://github.com/WideSu/Cinema)
 
----
-
-## 📊 Trading Performance
-
-```python
-# My trading philosophy
-def trading_strategy():
-    return {
-        'timeframes': ['intraday', 'long-term'],
-        'platform': 'IBKR',
-        'annual_return': '28%',
-        'edge': 'ML-powered insights',
-        'risk_management': 'Always have a stop-loss 📉'
-    }
-```
----
-
-## 🛠️ Tech Stack
-
-```yaml
-languages:
-  - Python
-  - SQL
-  
-ml_frameworks:
-  - PyTorch
-  - Scikit-learn
-  
-trading_tools:
-  - IBKR API
-  - Yahoo Finance
-  
-infrastructure:
-  - FastAPI
-  - PostgreSQL
-  - Docker
-  - GCP
-```
-
-## 📈 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WideSu&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00c7b7&icon_color=00c7b7" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WideSu&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00c7b7" />
-</div>
-
----
+### 🧰 GitHub Statics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=WideSu&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WideSu&layout=compact&theme=dark&hide_border=true&hide=html,css" height="150"/>
+</p>
 
 ## 🤝 Connect With Me
 
@@ -129,8 +85,6 @@ infrastructure:
     <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
   </a>
 </p>
-
----
 
 <div align="center">
   <i>⚡ Fun fact: My ML models help me trade, and my trading funds my ML compute budget ⚡</i>
