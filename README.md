@@ -1,104 +1,83 @@
 # 👋 Hi, I'm Anni HUANG
+
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 
-I'm an **AI Developer** who builds tools to enhance developer's coding experience. When I'm not coding, I'm actively trading on **IBKR**—balancing **intraday strategies** with **long-term investments**. My portfolio has consistently delivered **~28% annual returns**, and I'm channeling this experience into building practical trading tools for retail investors, including:
-- Building production-ready trading systems
-- Developing risk management tools for margin traders
-- Bridging the gap between AI research and practical trading applications
+AI Developer building tools for **smarter trading**. I actively trade on **IBKR** (~28% annual returns) and channel that experience into practical applications for retail investors.
 
-## 🤝 Connect With Me
+**Current focus:** Trading systems · Risk management · AI/ML applications in finance
 
-<p align="center">
-  <a href="https://linkedin.com/in/annihuang2021">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.leetcode.com/widesu">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  <a href="https://public.tableau.com/app/profile/huang.anni/vizzes">
-    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  </a>
-</p>
-
-
-## 💼 Featured Projects
-
-### 📈 Trading & Finance
-- **Risk System** *(2025)* — Real-time margin status monitoring for margin traders  
-  `FastAPI` `PostgreSQL` `Yahoo-Finance`  
-  *Extension of banking system with real-time risk analytics*  
+## 🔥 Featured Projects
+### Trading & Finance
+- **Risk System** *(2025)* — Real-time margin monitoring  
+  [![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://github.com/topics/fastapi)
+  [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)](https://github.com/topics/postgresql)
+  [![Yahoo-Finance](https://img.shields.io/badge/-Yahoo--Finance-6001D2?style=flat-square&logo=yahoo&logoColor=white)](https://github.com/topics/yahoo-finance)  
   [![GitHub Repo](https://img.shields.io/badge/GitHub-View_Repo-00c7b7?style=flat-square&logo=github)](https://github.com/WideSu/risk-system-backend)
 
-- **Stock Recommendation System** *(2019)* — ML models that consistently outperformed market benchmarks  
-  `sklearn` `pandas`  
-  *Achieved monthly returns exceeding S&P 500*  
+- **Stock Recommendation System** *(2019)* — ML models beating S&P 500  
+  [![sklearn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)](https://github.com/topics/scikit-learn)
+  [![pandas](https://img.shields.io/badge/-pandas-150458?style=flat-square&logo=pandas&logoColor=white)](https://github.com/topics/pandas)  
   [![GitHub Repo](https://img.shields.io/badge/GitHub-View_Repo-00c7b7?style=flat-square&logo=github)](https://github.com/WideSu/Stock-recommandation-via-machine-learning-algorithms)
 
-- **Banking System Backend** *(2025)* — Thread-safe in-memory banking system  
-  `FastAPI` `thread-safe`  
+- **Banking System Backend** *(2025)* — Thread-safe backend  
+  [![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://github.com/topics/fastapi)
+  [![thread-safe](https://img.shields.io/badge/-thread--safe-FF6B6B?style=flat-square)]()  
   [![GitHub Repo](https://img.shields.io/badge/GitHub-View_Repo-00c7b7?style=flat-square&logo=github)](https://github.com/WideSu/banking_system_backend)
 
-### 🤖 Machine Learning & AI
-- **Session-based Recommendation System** *(2022)* — For Amazon baby products  
-  `PyTorch` `recommendation-system`  
+### 🤖 Machine Learning
+- **Session-based Recommendation** *(2022)* — Amazon baby products  
+  [![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://github.com/topics/pytorch)
+  [![recommendation-system](https://img.shields.io/badge/-RecSys-FF6B6B?style=flat-square)]()  
   [![GitHub Repo](https://img.shields.io/badge/GitHub-View_Repo-00c7b7?style=flat-square&logo=github)](https://github.com/WideSu/serenRec)
 
-- **Multilingual Named Entity Recognition** *(2022)* — Transfer learning for low-resource languages  
-  `transformers` `huggingface`  
+- **Multilingual NER** *(2022)* — Low-resource languages  
+  [![transformers](https://img.shields.io/badge/-transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://github.com/topics/transformers)
+  [![huggingface](https://img.shields.io/badge/-🤗%20HuggingFace-FFD21E?style=flat-square)](https://github.com/topics/huggingface)  
   [![GitHub Repo](https://img.shields.io/badge/GitHub-View_Repo-00c7b7?style=flat-square&logo=github)](https://github.com/WideSu/Vanilla-NER)
 
-- **Credit Risk Detection** *(2022)* — ML models for loan applicant risk assessment  
-  `data-science-in-finance`  
+- **Credit Risk Detection** *(2022)* — Loan applicant assessment  
+  [![data-science-in-finance](https://img.shields.io/badge/-FinTech-00c7b7?style=flat-square)]()  
   [![GitHub Repo](https://img.shields.io/badge/GitHub-View_Repo-00c7b7?style=flat-square&logo=github)](https://github.com/WideSu/CreditRiskDetection)
 
-- **Breast Cancer Detection** *(2019)* — CNN-based histological image classifier  
-  `TensorFlow` `AI-in-healthcare`  
+<details>
+<summary>📁 View more projects →</summary>
+
+<br>
+
+- **Breast Cancer Detection** *(2019)* — CNN classifier  
+  [![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)](https://github.com/topics/tensorflow)
+  [![AI-in-healthcare](https://img.shields.io/badge/-AI--Healthcare-00c7b7?style=flat-square)]()  
   [![GitHub Repo](https://img.shields.io/badge/GitHub-View_Repo-00c7b7?style=flat-square&logo=github)](https://github.com/WideSu/CancerDaignosisApp)
 
-- **Lecture Note Assistant** *(2019)* — Real-time audio transcription & translation  
-  `Go`  
+- **Lecture Note Assistant** *(2019)* — Audio transcription  
+  [![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)](https://github.com/topics/go)  
   [![GitHub Repo](https://img.shields.io/badge/GitHub-View_Repo-00c7b7?style=flat-square&logo=github)](https://github.com/WideSu/lectureNoteAssistant)
 
-### 🛠️ Systems & Infrastructure
-- **Compiler Design** *(2019)* — C- language compiler for Huawei Competition  
-  `C` `compiler`  
+- **Compiler Design** *(2019)* — C- language compiler  
+  [![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)](https://github.com/topics/c)
+  [![compiler](https://img.shields.io/badge/-compiler-FF6B6B?style=flat-square)](https://github.com/topics/compiler)  
   [![GitHub Repo](https://img.shields.io/badge/GitHub-View_Repo-00c7b7?style=flat-square&logo=github)](https://github.com/WideSu/Compiler)
 
-### 🎬 Just for Fun
-- **Smart Cinema Seat Recommender** *(2025)* — Intelligent group seating optimization system that finds the optimal seats based on cinema geometry and group preferences  
-  `optimization-algorithms` `spatial-computing`  
-  *Uses spatial algorithms to solve the classic "group seating problem"—finding contiguous seats that are centered and near the back*  
+- **Smart Cinema Seat Recommender** *(2025)* — Spatial optimization  
+  [![optimization](https://img.shields.io/badge/-optimization-00c7b7?style=flat-square)]()
+  [![spatial-computing](https://img.shields.io/badge/-spatial--computing-FF6B6B?style=flat-square)]()  
   [![GitHub Repo](https://img.shields.io/badge/GitHub-View_Repo-00c7b7?style=flat-square&logo=github)](https://github.com/WideSu/Cinema)
 
-### 🧰 GitHub Statics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WideSu&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WideSu&layout=compact&theme=dark&hide_border=true&hide=html,css" height="150"/>
-</p>
+</details>
 
-## 🤝 Connect With Me
+## 📊 Trading Snapshot
 
-<p align="center">
-  <a href="https://linkedin.com/in/annihuang2021">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.leetcode.com/widesu">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  <a href="https://public.tableau.com/app/profile/huang.anni/vizzes">
-    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  </a>
-</p>
-
-<div align="center">
-  <i>⚡ Fun fact: My ML models help me trade, and my trading funds my ML compute budget ⚡</i>
-  
-</div>
+```python
+{
+  'style': 'Intraday + Long-term',
+  'platform': 'IBKR',
+  'annual_return': '~28%',
+  'edge': 'AI-powered insights'
+}
