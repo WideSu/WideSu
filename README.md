@@ -22,39 +22,49 @@ I'm an AI Developer who builds tools for **smarter trading**. When I'm not codin
 ## 💼 Featured Projects
 
 ### 📈 Trading & Finance
-- **Risk System** *(2025)* — Real-time margin status monitoring for margin traders [`FastAPI`](https://github.com/topics/fastapi) [`PostgreSQL`](https://github.com/topics/postgresql) [`Yahoo-Finance`](https://github.com/topics/yahoo-finance)  
+- **Risk System** *(2025)* — Real-time margin status monitoring for margin traders  
+  `FastAPI` `PostgreSQL` `Yahoo-Finance`  
   *Extension of banking system with real-time risk analytics*  
   [![GitHub Repo](https://img.shields.io/badge/GitHub-View_Repo-00c7b7?style=flat-square&logo=github)](https://github.com/WideSu/risk-system-backend)
 
-- **Stock Recommendation System** *(2019)* — ML models that consistently outperformed market benchmarks [`sklearn`](https://github.com/topics/scikit-learn) [`pandas`](https://github.com/topics/pandas)  
+- **Stock Recommendation System** *(2019)* — ML models that consistently outperformed market benchmarks  
+  `sklearn` `pandas`  
   *Achieved monthly returns exceeding S&P 500*  
   [![GitHub Repo](https://img.shields.io/badge/GitHub-View_Repo-00c7b7?style=flat-square&logo=github)](https://github.com/WideSu/Stock-recommandation-via-machine-learning-algorithms)
 
-- **Banking System Backend** *(2025)* — Thread-safe in-memory banking system [`FastAPI`](https://github.com/topics/fastapi) [`thread-safe`](https://github.com/topics/thread-safe)  
+- **Banking System Backend** *(2025)* — Thread-safe in-memory banking system  
+  `FastAPI` `thread-safe`  
   [![GitHub Repo](https://img.shields.io/badge/GitHub-View_Repo-00c7b7?style=flat-square&logo=github)](https://github.com/WideSu/banking_system_backend)
 
 ### 🤖 Machine Learning & AI
-- **Session-based Recommendation System** *(2022)* — For Amazon baby products [`PyTorch`](https://github.com/topics/pytorch) [`recommendation-system`](https://github.com/topics/recommendation-system)  
+- **Session-based Recommendation System** *(2022)* — For Amazon baby products  
+  `PyTorch` `recommendation-system`  
   [![GitHub Repo](https://img.shields.io/badge/GitHub-View_Repo-00c7b7?style=flat-square&logo=github)](https://github.com/WideSu/serenRec)
 
-- **Multilingual Named Entity Recognition** *(2022)* — Transfer learning for low-resource languages [`transformers`](https://github.com/topics/transformers) [`huggingface`](https://github.com/topics/huggingface)  
+- **Multilingual Named Entity Recognition** *(2022)* — Transfer learning for low-resource languages  
+  `transformers` `huggingface`  
   [![GitHub Repo](https://img.shields.io/badge/GitHub-View_Repo-00c7b7?style=flat-square&logo=github)](https://github.com/WideSu/Vanilla-NER)
 
-- **Credit Risk Detection** *(2022)* — ML models for loan applicant risk assessment [`data-science-in-finance`](https://github.com/topics/data-science-in-finance)  
+- **Credit Risk Detection** *(2022)* — ML models for loan applicant risk assessment  
+  `data-science-in-finance`  
   [![GitHub Repo](https://img.shields.io/badge/GitHub-View_Repo-00c7b7?style=flat-square&logo=github)](https://github.com/WideSu/CreditRiskDetection)
 
-- **Breast Cancer Detection** *(2019)* — CNN-based histological image classifier [`TensorFlow`](https://github.com/topics/tensorflow) [`AI-in-healthcare`](https://github.com/topics/ai-in-healthcare)  
+- **Breast Cancer Detection** *(2019)* — CNN-based histological image classifier  
+  `TensorFlow` `AI-in-healthcare`  
   [![GitHub Repo](https://img.shields.io/badge/GitHub-View_Repo-00c7b7?style=flat-square&logo=github)](https://github.com/WideSu/CancerDaignosisApp)
 
-- **Lecture Note Assistant** *(2019)* — Real-time audio transcription & translation [`Go`](https://github.com/topics/go)  
+- **Lecture Note Assistant** *(2019)* — Real-time audio transcription & translation  
+  `Go`  
   [![GitHub Repo](https://img.shields.io/badge/GitHub-View_Repo-00c7b7?style=flat-square&logo=github)](https://github.com/WideSu/lectureNoteAssistant)
 
 ### 🛠️ Systems & Infrastructure
-- **Compiler Design** *(2019)* — C- language compiler for Huawei Competition [`C`](https://github.com/topics/c) [`compiler`](https://github.com/topics/compiler)  
+- **Compiler Design** *(2019)* — C- language compiler for Huawei Competition  
+  `C` `compiler`  
   [![GitHub Repo](https://img.shields.io/badge/GitHub-View_Repo-00c7b7?style=flat-square&logo=github)](https://github.com/WideSu/Compiler)
 
 ### 🎬 Just for Fun
 - **Smart Cinema Seat Recommender** *(2025)* — Intelligent group seating optimization system that finds the optimal seats based on cinema geometry and group preferences  
+  `optimization-algorithms` `spatial-computing`  
   *Uses spatial algorithms to solve the classic "group seating problem"—finding contiguous seats that are centered and near the back*  
   [![GitHub Repo](https://img.shields.io/badge/GitHub-View_Repo-00c7b7?style=flat-square&logo=github)](https://github.com/WideSu/Cinema)
 
