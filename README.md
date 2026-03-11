@@ -82,7 +82,7 @@ def trading_strategy():
         'edge': 'ML-powered insights',
         'risk_management': 'Always have a stop-loss 📉'
     }
-
+```
 ---
 
 ## 🛠️ Tech Stack
