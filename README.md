@@ -1,11 +1,18 @@
 # 👋 Hi, I'm Anni HUANG
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00C7B7&center=true&vCenter=true&width=435&lines=AI+Developer;ML+Engineer;Trading+Tool+Builder" alt="Typing SVG" />
+</div>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=WideSu&style=for-the-badge&color=00c7b7" alt="Profile views" />
 </p>
 
+---
+
 ## 🚀 About Me
 
-I'm an AI Developer with a passion for **trading**. When I'm not coding, I'm actively trading on **IBKR**—balancing **intraday strategies** with **long-term investments**. My portfolio has consistently delivered **~28% annual returns**, and I'm channeling this experience into building smarter trading tools.
+I'm an AI Developer who builds tools for **smarter trading**. When I'm not coding, I'm actively trading on **IBKR**—balancing **intraday strategies** with **long-term investments**. My portfolio has consistently delivered **~28% annual returns**, and I'm channeling this experience into building practical trading tools for retail investors.
 
 ### 🎯 Current Focus
 - Building production-ready trading systems
@@ -42,15 +49,15 @@ I'm an AI Developer with a passion for **trading**. When I'm not coding, I'm act
   [![GitHub Repo](https://img.shields.io/badge/GitHub-View_Repo-00c7b7?style=flat-square&logo=github)](https://github.com/WideSu/CancerDaignosisApp)
 
 - **Lecture Note Assistant** *(2019)* — Real-time audio transcription & translation [`Go`](https://github.com/topics/go)  
-[![GitHub Repo](https://img.shields.io/badge/GitHub-View_Repo-00c7b7?style=flat-square&logo=github)](https://github.com/WideSu/lectureNoteAssistant)
+  [![GitHub Repo](https://img.shields.io/badge/GitHub-View_Repo-00c7b7?style=flat-square&logo=github)](https://github.com/WideSu/lectureNoteAssistant)
 
 ### 🛠️ Systems & Infrastructure
-
 - **Compiler Design** *(2019)* — C- language compiler for Huawei Competition [`C`](https://github.com/topics/c) [`compiler`](https://github.com/topics/compiler)  
   [![GitHub Repo](https://img.shields.io/badge/GitHub-View_Repo-00c7b7?style=flat-square&logo=github)](https://github.com/WideSu/Compiler)
 
-## Just for Fun
-- **🎬 Smart Cinema Seat Recommender** *(2025)* — Intelligent group seating optimization system that finds the optimal seats based on cinema geometry and group preferences
+### 🎬 Just for Fun
+- **Smart Cinema Seat Recommender** *(2025)* — Intelligent group seating optimization system that finds the optimal seats based on cinema geometry and group preferences  
+  *Uses spatial algorithms to solve the classic "group seating problem"—finding contiguous seats that are centered and near the back*  
   [![GitHub Repo](https://img.shields.io/badge/GitHub-View_Repo-00c7b7?style=flat-square&logo=github)](https://github.com/WideSu/Cinema)
 
 ---
@@ -67,7 +74,6 @@ def trading_strategy():
         'edge': 'ML-powered insights',
         'risk_management': 'Always have a stop-loss 📉'
     }
-```
 
 ---
 
@@ -92,8 +98,6 @@ infrastructure:
   - Docker
   - GCP
 ```
-
----
 
 ## 📈 GitHub Analytics
 
