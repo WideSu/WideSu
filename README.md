@@ -1,16 +1,11 @@
 # 👋 Hi, I'm Anni HUANG
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00C7B7&center=true&vCenter=true&width=435&lines=AI+Developer;Quant+Trader;ML+Engineer" alt="Typing SVG" />
-</div>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=WideSu&style=for-the-badge&color=00c7b7" alt="Profile views" />
 </p>
 
 ## 🚀 About Me
 
-I'm an AI Developer with a passion for **financial technology** and **machine learning**. When I'm not coding, I'm actively trading on **IBKR**—balancing **intraday strategies** with **long-term investments**. My portfolio has consistently delivered **~28% annual returns**, and I'm channeling this experience into building smarter trading tools.
+I'm an AI Developer with a passion for **trading**. When I'm not coding, I'm actively trading on **IBKR**—balancing **intraday strategies** with **long-term investments**. My portfolio has consistently delivered **~28% annual returns**, and I'm channeling this experience into building smarter trading tools.
 
 ### 🎯 Current Focus
 - Building production-ready trading systems
