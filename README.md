@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Anni HUANG
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00C7B7&center=true&vCenter=true&width=435&lines=AI+Developer;ML+Engineer;Trading+Tool+Builder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00C7B7&center=true&vCenter=true&width=435&lines=AI+Developer;Trading+Tool+Builder" alt="Typing SVG" />
 </div>
 
 <p align="center">
