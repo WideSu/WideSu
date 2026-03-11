@@ -43,7 +43,9 @@ AI Developer building tools for **smarter trading**. I actively trade on **IBKR*
   [![GitHub Repo](https://img.shields.io/badge/GitHub-View_Repo-00c7b7?style=flat-square&logo=github)](https://github.com/WideSu/Vanilla-NER)
 
 - **Credit Risk Detection** *(2022)* — Loan applicant assessment  
-  [![data-science-in-finance](https://img.shields.io/badge/-FinTech-00c7b7?style=flat-square)]()  
+  [![data-science-in-finance](https://img.shields.io/badge/-FinTech-00c7b7?style=flat-square)]()
+    [![sklearn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)](https://github.com/topics/scikit-learn)
+  [![pandas](https://img.shields.io/badge/-pandas-150458?style=flat-square&logo=pandas&logoColor=white)](https://github.com/topics/pandas)  
   [![GitHub Repo](https://img.shields.io/badge/GitHub-View_Repo-00c7b7?style=flat-square&logo=github)](https://github.com/WideSu/CreditRiskDetection)
 
 <details>
