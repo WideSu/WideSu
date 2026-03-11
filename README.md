@@ -86,5 +86,4 @@ I'm an **AI Developer** who builds tools to enhance developer's coding experienc
 <div align="center">
   <i>⚡ Fun fact: My ML models help me trade, and my trading funds my ML compute budget ⚡</i>
   
-  ![Snake animation](https://github.com/WideSu/WideSu/blob/output/github-contribution-grid-snake.svg)
 </div>
