@@ -8,9 +8,7 @@
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 
-I'm an AI Developer who builds tools to enhance developer's coding experience. When I'm not coding, I'm actively trading on **IBKR**—balancing **intraday strategies** with **long-term investments**. My portfolio has consistently delivered **~28% annual returns**, and I'm channeling this experience into building practical trading tools for retail investors.
-
-### 🎯 Side Projects that I am working on
+I'm an AI Developer who builds tools to enhance developer's coding experience. When I'm not coding, I'm actively trading on **IBKR**—balancing **intraday strategies** with **long-term investments**. My portfolio has consistently delivered **~28% annual returns**, and I'm channeling this experience into building practical trading tools for retail investors, including:
 - Building production-ready trading systems
 - Developing risk management tools for margin traders
 - Bridging the gap between AI research and practical trading applications
