@@ -8,8 +8,6 @@
   <img src="https://komarev.com/ghpvc/?username=WideSu&style=for-the-badge&color=00c7b7" alt="Profile views" />
 </p>
 
----
-
 ## 🚀 About Me
 
 I'm an AI Developer who builds tools for **smarter trading**. When I'm not coding, I'm actively trading on **IBKR**—balancing **intraday strategies** with **long-term investments**. My portfolio has consistently delivered **~28% annual returns**, and I'm channeling this experience into building practical trading tools for retail investors.
