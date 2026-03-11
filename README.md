@@ -15,7 +15,7 @@ I'm an AI Developer who builds tools for **smarter trading**. When I'm not codin
 ### 🎯 Current Focus
 - Building production-ready trading systems
 - Developing risk management tools for margin traders
-- Bridging the gap between ML research and practical trading applications
+- Bridging the gap between AI research and practical trading applications
 
 ---
 
