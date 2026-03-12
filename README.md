@@ -9,7 +9,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 
-AI Developer building tools for **smarter trading**. I actively trade on **IBKR** (~28% annual returns) and channel that experience into practical applications for retail investors.
+AI Developer building tools for **smarter trading**. I actively trade on **IBKR** (>30% annual returns) and channel that experience into practical applications for retail investors.
 
 **Current focus:** Trading systems · Risk management · AI/ML applications in finance
 
@@ -78,8 +78,8 @@ AI Developer building tools for **smarter trading**. I actively trade on **IBKR*
 
 ```python
 {
-  'style': 'Intraday + Long-term',
+  'style': 'Intraday(10%) + Long-term(90%)',
   'platform': 'IBKR',
-  'annual_return': '~28%',
-  'edge': 'AI-powered insights'
+  'annual_return': '>30%',
+  'edge': 'Technical insight + financial thinking to identify undervalued stocks'
 }
